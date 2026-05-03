@@ -1,0 +1,11 @@
+# Site settings
+title: Nicholas Mutsaerts
+description: IT Support Specialist focused on Microsoft 365, Windows, macOS, and Linux. Providing practical guides, troubleshooting workflows, and technical learning resources.
+
+# Theme
+show_downloads: false
+theme: jekyll-theme-cayman
+
+# GitHub settings
+github:
+  is_project_page: false

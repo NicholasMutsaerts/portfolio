@@ -1,5 +1,4 @@
-# portfolio
-IT Technical Support Guides portfolio 
+# IT Technical Support Guides 
 
 **[IT Technical Support Guides](it-guides.md)**
 

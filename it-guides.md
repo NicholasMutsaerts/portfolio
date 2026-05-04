@@ -14,37 +14,35 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 
 ### Windows 11
 - [How to change DNS settings (Windows 11)](pdf/How-to-change-DNS-settings-(Windows-11).pdf)
-- [How to clean an infected PC](clean-infected-pc.md)
-- [Restoring Windows Network Connectivity with a Winsock Reset](Winsock.md)
-- [Streamlining Windows 11 Application Management](Windows-11-app-management.md)
-- [Windows 11 Network Troubleshooting Guide](networking)
-- [Windows Package Manager (WINGET)](pdf/Windows%20Package%20Manager%20(WINGET).pdf)
+- [How to clean an infected PC]
+- [Restoring Windows Network Connectivity with a Winsock Reset]
+- [Streamlining Windows 11 Application Management]
+- [Windows 11 Network Troubleshooting Guide]
+- [Windows Package Manager (WINGET)]
 
 ---
 
 ### macOS Essentials Guides
-- [Apple MacBook Essentials](macOS-Essentials.md)
-- [Apple MacBook Essentials (download PDF)](pdf/Apple-MacBook-Essentials.pdf)
-- [How to Boost MacOS Performance](boostmacos.md)
+- [Apple MacBook Essentials]
+- [How to Boost MacOS Performance]
 - [Security & best practices on public Wi-Fi](pdf/How-to-Stay-Safe-on-Public-Wi-Fi-(macOS).pdf)
 - [Remote Desktop from macOS to Windows](pdf/Remote-Desktop-from-MacOS-to-Windows.pdf)
 
 ---
 
 ### Microsoft 365 Administration
-- [E-mail Retention and Archiving in Microsoft 365](archiving.md)
+- [E-mail Retention and Archiving in Microsoft 365]
 - [Export Office 365 Mailbox](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
-- [Microsoft 365 Exchange Online](M365-Exchange-Online.md)
-- [Microsoft 365 Exchange Online (download PDF)](pdf/Microsoft-365-Exchange-Online.pdf)
-- [Mastering Microsoft Teams Administration with PowerShell](TeamsPowerShell.md)
-- [MFA & Conditional Access](mfa-conditional-access.md)
+- [Microsoft 365 Exchange Online]
+- [Mastering Microsoft Teams Administration with PowerShell]
+- [MFA & Conditional Access]
 
 ---
 
 ### Windows Server & Networking
-- [Understanding DNS Optimization](pdf/Understanding-DNS.pdf)
-- [Monitoring Open Files on Windows](pdf/How-to-monitor-files-currently-open-on-a-Windows-System.pdf)
-- [NET USE Command Guide](pdf/Net-Use-Command.pdf)
+- [Understanding DNS Optimization]
+- [Monitoring Open Files on Windows]
+- [NET USE Command Guide]
 
 ---
 
@@ -56,15 +54,18 @@ The [**Ubuntu Desktop Guide**](https://help.ubuntu.com) serves as the fundamenta
 
 ## General Guides
 - [Adobe PDF & Alternatives](pdf/adobe.pdf)
-- [Best Practices for IT Onboarding](IT-Onboarding.md)
-- [Refurbished laptop or desktop checklist guide](refurbishedpc.md)
-- [Understanding DHCP & Static IPs](dhcp.md)
-- [Printer Troubleshooting](printers.md)
+- 
+- 
+- 
+- 
 
 ---
 
 ## Cheatsheets
-- [Windows 11 Cheatsheet (downloadable pdf)](cheatsheet/Windows-11-Cheatsheet.pdf)
+- [Apple MacOS Command Lines](pdf/MacOS Command Line Cheatsheet.pdf)
+- [Windows 11 Cheatsheet (downloadable pdf)](pdf/Windows-11-Cheatsheet.pdf)
+- [Linux Command Lines](pdf/Linux Essential Command Lines.pdf)
+- 
 
 ---
 

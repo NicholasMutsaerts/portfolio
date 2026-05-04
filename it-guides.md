@@ -13,11 +13,8 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 ---
 
 ### Windows 11
-- [Common Help Desk fixes](Common_IT_Support_Issues.md)
-- [Common Help Desk Fixes (PDF Download)](pdf/Common IT Troubleshooting Scenarios.pdf)
-- [Quick Fix Guide - Overview Image](images/Quick Fix Guide.jpg)
 - [How to change DNS settings (Windows 11)](pdf/How-to-change-DNS-settings-(Windows-11).pdf)
-- [How to clean an infected PC](clean-infected-pc)
+- [How to clean an infected PC](clean-infected-pc.md)
 - [Restoring Windows Network Connectivity with a Winsock Reset](Winsock.md)
 - [Streamlining Windows 11 Application Management](Windows-11-app-management.md)
 - [Windows 11 Network Troubleshooting Guide](networking)
@@ -50,7 +47,6 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 - [NET USE Command Guide](pdf/Net-Use-Command.pdf)
 
 ---
-
 
 #### Key Ubuntu Resources
 

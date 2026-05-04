@@ -1,6 +1,4 @@
-# IT Technical Support Guides 
-
-**[IT Technical Support Guides](it-guides.md)**
+# **[IT Technical Support Guides](it-guides.md)**
 
 Welcome to my professional IT portfolio and technical knowledge base. This site provides clear, practical guidance for everyday IT support tasks, drawing on real-world experience across enterprise and education environments.
 

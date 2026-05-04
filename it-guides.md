@@ -13,8 +13,9 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 ---
 
 ### Windows 11
+- [Common IT Troubleshooting Scenarios](pdf/Common IT Troubleshooting Scenarios.pdf)
 - [How to change DNS settings (Windows 11)](pdf/How-to-change-DNS-settings-(Windows-11).pdf)
-- [How to clean an infected PC]
+- [How to clean an infected PC](clean_infected_PC.md)
 - [Restoring Windows Network Connectivity with a Winsock Reset]
 - [Streamlining Windows 11 Application Management]
 - [Windows 11 Network Troubleshooting Guide]
@@ -23,26 +24,24 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 ---
 
 ### macOS Essentials Guides
-- [Apple MacBook Essentials]
-- [How to Boost MacOS Performance]
-- [Security & best practices on public Wi-Fi](pdf/How-to-Stay-Safe-on-Public-Wi-Fi-(macOS).pdf)
-- [Remote Desktop from macOS to Windows](pdf/Remote-Desktop-from-MacOS-to-Windows.pdf)
+- [Apple MacBook Essentials](Coming Soon)
+- [How to Boost MacOS Performance](Coming Soon)
 
 ---
 
 ### Microsoft 365 Administration
-- [E-mail Retention and Archiving in Microsoft 365]
+- [E-mail Retention and Archiving in Microsoft 365](Coming Soon)
 - [Export Office 365 Mailbox](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
-- [Microsoft 365 Exchange Online]
-- [Mastering Microsoft Teams Administration with PowerShell]
-- [MFA & Conditional Access]
+- [Microsoft 365 Exchange Online](Coming Soon)
+- [Mastering Microsoft Teams Administration with PowerShell](Coming Soon)
+- [MFA & Conditional Access](Coming Soon)
 
 ---
 
 ### Windows Server & Networking
-- [Understanding DNS Optimization]
-- [Monitoring Open Files on Windows]
-- [NET USE Command Guide]
+- [Understanding DNS Optimization](Coming Soon)
+- [Monitoring Open Files on Windows](Coming Soon)
+- [NET USE Command Guide](Coming Soon)
 
 ---
 

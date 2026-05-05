@@ -31,8 +31,8 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 
 ### Microsoft 365 Administration
 - [E-mail Retention and Archiving in Microsoft 365](Coming Soon)
-- [Export Office 365 Mailbox](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
-- [Microsoft 365 Exchange Online](Coming Soon)
+- [Export Office 365 Mailbox PDF](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
+- [Microsoft 365 Exchange Online](exchangeonline.md)
 - [Mastering Microsoft Teams Administration with PowerShell](Coming Soon)
 - [MFA & Conditional Access](Coming Soon)
 

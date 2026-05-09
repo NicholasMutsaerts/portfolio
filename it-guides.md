@@ -13,7 +13,7 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 ---
 
 ### Windows 11
-- [Common IT Troubleshooting Scenarios](pdf/Common IT Troubleshooting Scenarios.pdf)
+- [Common IT Troubleshooting Scenarios](Troubleshooting.md)
 - [How to change DNS settings (Windows 11)](pdf/How-to-change-DNS-settings-(Windows-11).pdf)
 - [How to clean an infected PC](clean_infected_PC.md)
 - [Restoring Windows Network Connectivity with a Winsock Reset]

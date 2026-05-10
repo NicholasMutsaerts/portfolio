@@ -113,12 +113,40 @@ Download the latest drivers from the printer manufacturer’s website.
 
 --- 
 
-## Final Thoughts
+### Using Ticketing Systems Effectively
+
+Good troubleshooting lies within proper documentation and technical solutions. This process will be a big time saver for IT team for future tickets. Every ticket should include:
+
+- Symptoms
+- Root cause
+- Steps taken
+- Resolution
+
+Help Desk work is about problem-solving, communication, and consistency. Master these common scenarios, and you’ll succeed in any IT support role.
+
+**Final Tip:** Most issues can be solved faster by asking:
+
+- When did it start?
+- What changed?
+- Does it affect other users?
+
+---
+
+### Final Thoughts
 
 Troubleshooting Windows 11 relies on strong technical fundamentals, logical problem‑solving, and effective communication. Using a structured approach when handling issues such as network connectivity, update failures, or Microsoft 365 support helps reduce downtime and maintain system reliability.
 
+---
 
-
+#### Here is a quick downloadable cheatsheet
 
 ![Common IT Troubleshooting Scenarios Cheatsheet](images/Common_IT_Troubleshooting_Scenarios_Windows11.png)
 [Common IT Troubleshooting Scenarios (PDF Download)](pdf/Common IT Troubleshooting Scenarios.pdf)
+
+
+--- 
+
+#### Disclaimer
+
+All guides are provided for educational purposes only. Use Windows 11, macOS, and Linux commands at your own risk. While accuracy is a priority, incorrect administrative actions can cause data loss or service disruption. Always back up important data and consult a qualified IT professional if you are unsure.
+

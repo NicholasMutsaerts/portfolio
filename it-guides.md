@@ -16,10 +16,8 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 - [Common IT Troubleshooting Scenarios](Troubleshooting.md)
 - [How to change DNS settings (Windows 11)](pdf/How-to-change-DNS-settings-(Windows-11).pdf)
 - [How to clean an infected PC](clean_infected_PC.md)
-- [Restoring Windows Network Connectivity with a Winsock Reset]
-- [Streamlining Windows 11 Application Management]
-- [Windows 11 Network Troubleshooting Guide]
-- [Windows Package Manager (WINGET)]
+- [Restoring Windows Network Connectivity with a Winsock Reset](winsock.md)
+- [Windows 11 App Management](Windows-11-app-management.md)
 
 ---
 
@@ -33,8 +31,8 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 - [E-mail Retention and Archiving in Microsoft 365](Coming Soon)
 - [Export Office 365 Mailbox PDF](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
 - [Microsoft 365 Exchange Online](exchangeonline.md)
-- [Mastering Microsoft Teams Administration with PowerShell](Coming Soon)
-- [MFA & Conditional Access](Coming Soon)
+- [Mastering Microsoft Teams Administration with PowerShell](TeamsPowerShell.md)
+- [MFA & Conditional Access](mfa-conditional-access.md)
 
 ---
 

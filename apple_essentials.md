@@ -98,12 +98,11 @@ Effective file management plays an essential role in enhancing productivity and 
 ---
 
 ### Essential File Storage Tips
-**Time Machine**
 
+**Time Machine**
 Experiencing the loss of critical work or personal data can be a frustrating and costly experience. A solid backup and recovery plan is essential to prevent such occurrences. Use [Time Machine](https://support.apple.com/en-ca/104984) to back your files on an external SSD, USB thumb drive, or Network-Attached Storage (NAS). 
 
 **Cloud Solutions**
-
 Cloud solutions, like [iCloud](https://support.apple.com/en-ca/118443), [Microsoft OneDrive](https://www.microsoft.com/en-ca/microsoft-365/onedrive/online-cloud-storage) and [Google Drive](https://drive.google.com/drive), provide basic file redundancy and convenience. Advantages of cloud file storage lies within its accessibility from anywhere with an internet connection, data redundancy, and backup options.
 
 Consider using both a cloud storage and Time Machine. This approach ensures redundancy and minimizes the risk of losing your data permanently.
@@ -135,9 +134,6 @@ Or go to: `Applications > Utilities > Wireless Diagnostics`
 - Open Wi‑Fi settings
 - Select `TCP/IP > Renew Lease`
 
-More information:
-Fix Wi‑Fi connection issues on Mac
-
 For more information, check out Apple MacBook link: [here](https://support.apple.com/en-ca/101588). 
 
 ---
@@ -158,7 +154,7 @@ Securing your Apple MacBook involves a combination of best practices, system con
 
 - Regularly update macOS and all installed applications. Security vulnerabilities are often patched in updates. To ensure your Apple device has the latest features and security enhancements, learn how to [update MacOS](https://support.apple.com/en-us/108382). 
 
-Important: Save all open files before proceeding with the installation of a macOS update. macOS update times can vary, so consider updating during a break or at the end of the day to avoid interruptions.
+**Important:** Save all open files before proceeding with the installation of a macOS update. macOS update times can vary, so consider updating during a break or at the end of the day to avoid interruptions.
 
 - Use [Time Machine](https://support.apple.com/en-ca/104984) to back up your files regularly
 - Enable a screensaver for privacy and security reasons. (See section above)
@@ -166,12 +162,6 @@ Important: Save all open files before proceeding with the installation of a macO
 - [Enable FileVault](https://support.apple.com/en-ca/guide/mac-help/mh11785/mac) to encrypt your entire disk.
 - Use [Find My Mac](https://support.apple.com/en-ca/guide/findmy-mac/fmm53101237/mac) to locate or remotely lock your device if lost.
 - Enable Firewall in **System Settings > Network > Firewall**.
-
----
-
-**Disclaimer** 
-
-Use macOS Terminal commands at your own risk. Administrative mistakes may lead to data loss, compliance impacts, or service disruption. Always back up important data before running commands.
 
 ---
 

@@ -71,8 +71,6 @@ Microsoft Teams includes AI capabilities such as facial recognition, voice enrol
 •	[New-Team](https://learn.microsoft.com/en-us/powershell/module/teams/new-team?view=teams-ps)
 •	[Add-TeamUser](https://learn.microsoft.com/en-us/powershell/module/teams/add-teamuser?view=teams-ps)
 
- 
-
 ---
-#### [IT Technical Support Guides](it-guides.md)
-#### [Go to the Home Page]({{ '/' | absolute_url }})
+
+#### [Go to the Home Page](/)

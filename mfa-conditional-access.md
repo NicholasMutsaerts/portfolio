@@ -2,6 +2,7 @@
 layout: default
 title: MFA & Conditional Access
 description: Microsoft 365 Administration
+
 ---
 
 Modern organizations prioritize security, and protecting user identities is critical in a cloud-first world. **Multi-Factor Authentication (MFA)** and **Conditional Access** work together to create a strong security foundation:
@@ -60,17 +61,9 @@ This ensures all users are required to use MFA when accessing resources covered 
 
 ---
 
-#### Support This Project
+![MFA Infographic](images/How to Setup MFA.png)
 
-If you find these guides helpful, consider supporting the project.
-
-Your support helps:
-- Maintain and update documentation
-- Add new troubleshooting guides
-- Improve clarity and accuracy
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/nicholasmug)
-
+![M365 Conditional Access Infographic](images/Microsoft 365 Conditional Access - Safe Zone.png)
 ---
 
 #### [Go to the Home Page](/)

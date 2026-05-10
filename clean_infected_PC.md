@@ -53,5 +53,10 @@ If malware persists or rootkits are suspected:
 - Or perform a clean Windows reinstall using the [Media Creation Tool](https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d). Read: [Before you start the reinstall](https://support.microsoft.com/en-us/windows/reinstall-windows-with-the-installation-media-d8369486-3e33-7d9c-dccc-859e2b022fc7).
 
 ---
+
 ### Final Takeaway 
 Successfully cleaning an infected Windows PC requires more than running a single antivirus scan. It demands a structured approach that prioritizes containment, thorough detection, system repair, and ongoing security best practices. For novice users and office staff, always escalate to your IT or security team.
+
+---
+
+#### [Go to the Home Page](/)

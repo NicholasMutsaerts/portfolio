@@ -1,4 +1,4 @@
-# Common IT Troubleshooting Scenarios for Windows 11
+### Common IT Troubleshooting Scenarios for Windows 11
 
 This guide outlines common Windows 11 issues encountered in help desk and junior system administrator roles. As an IT professional or system administrator, understanding how to quickly diagnose and resolve these problems is essential. The focus is on practical troubleshooting steps for some of the most common Windows 11 support scenarios encountered in home and enterprise environments.
 

@@ -11,105 +11,105 @@ This guide outlines common Windows 11 issues encountered in help desk and junior
 
 ---
 
-## Slow System Performance 
+### Slow System Performance 
 
-### Common Symptoms
-- Slow boot or shutdown
-- Applications freezing or crashing
-- High CPU, memory, or disk usage
+Performance can suffer from excessive background applications or limited disk space. Constantly maintain your system by closing unused programs, clearing temporary files, and running disk cleanup. 
 
-### Troubleshooting Steps
-1. **Check system resources**
-- Open **Task Manager** (`Ctrl + Shift + Esc`) and identify high-usage processes.
-     
-2. **Restart the system**
-- Clears temporary system and memory issues.
-     
-3. **Install Windows and driver updates**
-- Go to **Settings → Windows Update** and confirm the system is fully patched.
-     
-4. **Run System File Checker** to scan and repair corrupted system files
-  
-   Open Command Prompt and run **sfc /scannow**
+For Windows 11, proceed to disable startup add. Proceed to open Task Manager > Startup tab > Disable unneeded programs. 
 
-5. **Disable unnecessary startup apps**
-- Task Manager --> Startup tab.
+Adjust Visual Effects: Go to System Properties → Advanced → Performance Settings → Select Adjust for best performance.
+
+A refresh install of Windows 11 once a year can also help remove accumulated clutter and restore system stability.
 
 ---
 
-## Network and Internet Connectivity Problems
+### Checks the integrity of Windows file system
 
-**Common Symptoms**
-- “No Internet” despite Wi‑Fi connection
-- Intermittent connection drops
-- Unable to access internal or external resources
+System File Checker (SFC) helps replace corrupted files with cached copies. Run this command via Command Prompt as Administrator
 
-**Steps to Diagnose**
-- Check physical connections (Ethernet / Wi-Fi)
-- Open Command Prompt as Administrator and use these lines below:
+**sfc /scannow**
 
-**ipconfig /all** 
-**ping 8.8.8.8** 
-**nslookup google.com**
+Deployment Imaging Service and Management Tool (DISM) is Used to fix Windows image and servicing problems. Run this command after SFC does not fix the issue. It connects to Windows Update to replace corrupted files
 
-- Restart the network adapter
-
-**Settings → System → Troubleshoot → Other troubleshooters → Internet Connections / Network Adapter**
-
-- Verify DNS and gateway settings.
-
-In case that this process does not resolve the connectivity issue, consider using the Winsock reset command that restarts the communication required between your Windows 11 devices and the network. (Run Command Prompt as Administrator)
-
-1. Type netsh winsock reset and select Enter
-2. Type netsh int ip reset and select Enter.
-3. Type ipconfig /release and select Enter.
-4. Type ipconfig /renew and select Enter.
-5. Type ipconfig /flushdns and select Enter.
+**DISM /Online /Cleanup-Image /RestoreHealth**
 
 ---
 
-## Printer is not working
+### Network and Internet Connectivity Problems
 
-### Symptoms
-- Printer appears offline
-- Print jobs stuck in queue
-- Unable to detect printer
+Restarting the router and checking if the device is connected to the right network. Verify the IP configuration. Basic troubleshooting for internet connectivity should include restarting the router and checking the cables.
 
-### Troubleshooting Steps
-Verify Physical Connections
+In Windows 11, use the **netsh winsock reset** command when experiencing network connectivity issues that cannot be resolved through standard troubleshooting steps. 
 
-- USB cable
-- Network connection
-- Printer power status
+A few common scenarios are malware infection, network configuration issues, and VPN issues. **Winsock reset** command restarts the communication required between your device and the network. (Run Command Prompt as Administrator).
 
-### Restart the Print Spooler
+1. Type **netsh winsock reset** and select **Enter**.
+2. Type **netsh int ip reset** and select **Enter**.
+3. Type **ipconfig /release** and select **Enter**.
+4. Type **ipconfig /renew** and select **Enter**.
+5. Type **ipconfig /flushdns** and select **Enter**.
+
+If you experience persistent internet problems, go to **Settings > Network & Internet > Advanced network settings > Network reset**, then restart your computer.
+
+Consider running an Internet speed test in order to verify upload and download speeds. Try [speedtest](https://www.speedtest.net/) and [internet speed test](https://fast.com/). A good internet speed for home use is 100 Mbps upload and download speed. For an office environment, the ideal internet speed will depend on the number of staff members in the office. 
+
+---
+
+### Forgotten Password
+
+Password resets are a common tasks for helpdesk teams. Implementing self-service password reset tools can simplify this process and minimize downtime. Encourage users to enable two-factor authentication for enhanced security and use password managers to prevent forgotten passwords. Tools like [LastPass](https://www.lastpass.com/), [NordPass](https://nordpass.com/) and [Bitwarden](https://bitwarden.com/) are excellent options. 
+
+---
+
+### Printer is not working
+
+Network printer issues can be a daily concern for help desk teams. Here are a few troubleshooting steps. 
+
+- Verify if the printer and the computer are connected to the right network. 
+- Proceed to update printer drivers. In some occasions, remove and readd the printer.
+- Check printer paper tray and toner levels. 
+- Occasionally a computer restart can resolve the issue. 
+
+For local printers, ensure that the printer cable is properly connected. Check out Microsoft Support for [Add or Install a Printer in Windows 11](https://support.microsoft.com/en-us/windows/add-or-install-a-printer-in-windows-cc0724cf-793e-3542-d1ff-727e4978638b) and [How to download and install the latest printer drivers](https://support.microsoft.com/en-us/windows/download-and-install-the-latest-printer-drivers-4ff66446-a2ab-b77f-46f4-a6d3fe4bf661). 
+
+#### Restart the Print Spooler
 1. Press **Win** + **R**
 2. Type: **services.msc**
 3. Locate **Print Spooler**
 4. Restart the service
 
-### Clear the Print Queue
+#### Clear the Print Queue
 1. Open PowerShell and type in the following command line
    **C:\Windows\System32\spool\PRINTERS**
 2. Delete pending print jobs
 
-### Reinstall Printer Drivers
+---
 
-Download the latest drivers from the printer manufacturer’s website.
+## Software Crashes or Freezes
+
+Instruct the user to close and reopen the application or restart their computer. If the issue persists, proceed to assist with updating software updates or reinstalling the application. For Windows 11, consider updating drivers via Device Manager. Check out [How to install Windows Updates](https://support.microsoft.com/en-us/windows/install-windows-updates-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a#:~:text=To%20check%20for%20updates%2C%20select,can%20choose%20to%20install%20them.&text=If%20you%20run%20into%20problems,at%20Troubleshoot%20problems%20updating%20Windows.). 
 
 ---
 
-## Blue Screen of Death (BSOD) or System Errors
+### Quick Fixes
+- **Restart the computer:** A simple restart often resolves many temporary glitches and performance issues by refreshing system processes and clearing cached data.
+- **Use troubleshooters:** Use troubleshooters: **Go to Settings > System > Troubleshoot > Other troubleshooters** to find and run automated tools for common problems like audio, network, or Windows Update issues. 
+- **Install the latest updates**. To check for updates, select **Start > Settings > Windows Update**, then select Check for updates. 
+- **Check Storage:** Be sure that you have at least 10-15% of free space on your hard drive, as a lack of space can cause performance issue. ou can free up space by running **Disk Cleanup** or navigating to **Settings > System > Storage > Cleanup recommendations** to remove temporary and unused files.
+- **Update Device Drivers:** Outdated or incompatible drivers can lead to hardware malfunctions. Go to **Settings > Windows Update > Advanced options > Optional updates** and install any available driver updates, or use **Device Manager** to check manually.
 
-- Open Command Prompt as Administrator and run built-in tools
+---
 
-  **sfc /scannow**
-  **chkdsk /f**
-  **powercfg /energy**
+### Microsoft PC Manager
 
-- Check Event Viewer
-- Test RAM and storage health
-- Update drivers and firmware Power and Battery Issues
+**Microsoft PC Manager** is designed to be lightweight, user-friendly, and effective across a wide range of hardware configurations. It is now available for download via the [Microsoft Store](https://apps.microsoft.com/home?hl=en-GB&gl=CA). Key Features:
+
+1. **One-Click Performance Boost:** Instantly enhance your PC's performance by cleaning up temporary files and optimizing memory usage. 
+2. **Storage Optimization:** Reclaim storage space by organizing large files, uninstalling rarely used apps, and enabling storage sense to automatically clear temporary files. 
+3. **File Organization:** Simplify file and folder management with user-friendly, built-in tools. 
+4. **Enhanced Security:** Safeguard your default settings from unauthorized changes and perform threat scans with a single-click security check. 
+5. **Pop-Up Control:** Minimize ads and app pop-ups for a seamless, distraction-free experience. 
+6. **Comprehensive Health Check:** Detect and resolve system issues efficiently with an all-in-one health check.
 
 --- 
 
@@ -134,7 +134,7 @@ Help Desk work is about problem-solving, communication, and consistency. Master 
 
 ### Final Thoughts
 
-Troubleshooting Windows 11 relies on strong technical fundamentals, logical problem‑solving, and effective communication. Using a structured approach when handling issues such as network connectivity, update failures, or Microsoft 365 support helps reduce downtime and maintain system reliability.
+In IT helpdesk support, many technical issues can be resolved through quick and effective troubleshooting. Empowering users to address basic problems on their own not only speeds up resolution times but also creates a more efficient and proactive support environment. Building a well-structured knowledge base with clear, concise reference guides can significantly enhance incident management and overall help desk performance.
 
 ---
 
@@ -142,13 +142,6 @@ Troubleshooting Windows 11 relies on strong technical fundamentals, logical prob
 
 ![Common IT Troubleshooting Scenarios Cheatsheet](images/Common_IT_Troubleshooting_Scenarios_Windows11.png)
 [Common IT Troubleshooting Scenarios (PDF Download)](pdf/Common IT Troubleshooting Scenarios.pdf)
-
-
---- 
-
-#### Disclaimer
-
-All guides are provided for educational purposes only. Use Windows 11, macOS, and Linux commands at your own risk. While accuracy is a priority, incorrect administrative actions can cause data loss or service disruption. Always back up important data and consult a qualified IT professional if you are unsure.
 
 ---
 

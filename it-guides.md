@@ -42,13 +42,33 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 
 ---
 
-#### Key Ubuntu Resources
+#### Linux Operating Systems
 
-The [**Ubuntu Desktop Guide**](https://help.ubuntu.com) serves as the fundamental resource for new users to familiarize themselves with the Ubuntu desktop environment. It provides essential support information, including resources, such as [**Ubuntu Help**](https://help.ubuntu.com/) and [**Ask Ubuntu**](https://askubuntu.com/) forum. For beginners learning Linux command lines on Ubuntu, a specific guide can be found [here](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
+This downloadable pdf guide is a beginner-friendly introduction to learning the Linux desktop through Ubuntu 26.04 LTS, focusing on everyday usability, core Linux concepts, and a smooth transition for new users. To provide a safe, flexible learning environment, this guide explores running Linux in VirtualBox, allowing users to experiment without affecting their primary operating system
+
+- [Ubuntu Desktop User Experience](pdf/Ubuntu Desktop User Experience.pdf)
+
+**Ubuntu Links:**
+- [**Ubuntu Desktop Guide**](https://help.ubuntu.com) 
+- [**Ubuntu Help**](https://help.ubuntu.com/) 
+- [**Ask Ubuntu**](https://askubuntu.com/)
+- [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
+
+Zorin 18 has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences.
+
+- [Install Zorin 18 in Virtualbox](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
+
+Once you become familiar with Ubuntu and Zorin, try out other popular Linux distributions, including:
+
+- [Fedora](https://www.fedoraproject.org/)
+- [Linux Minut](https://linuxmint.com/)
+- [Pop OS](https://system76.com/pop/?srsltid=AfmBOoqAYCdthm9sq00GMyD-kWFpINnoxaarjKiqluWmZnodPPKP8HEj)
+- [Manjaro](https://manjaro.org/)
+
 
 --- 
 
-### Learning MacOS, Linux, and Windows Command Lines
+### Learning MacOS, Linux, and Windows Command Lines Cheatsheets
 
 Exploring the command line provides a deeper appreciation for the capabilities behind each operating system. These command cheatsheet resource offers advanced functionalities and can be particularly handy as a quick reference to enhance one's command line proficiency. 
 

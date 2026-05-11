@@ -14,7 +14,7 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 
 ### Windows 11
 - [Common IT Troubleshooting Scenarios](Troubleshooting.md)
-- [How to change DNS settings (Windows 11)](pdf/How-to-change-DNS-settings-(Windows-11).pdf)
+- [How to change DNS settings (Windows 11) (PDF Version)](pdf/How-to-change-DNS-settings-(Windows-11).pdf)
 - [How to clean an infected PC](clean_infected_PC.md)
 - [Restoring Windows Network Connectivity with a Winsock Reset](winsock.md)
 - [Windows 11 App Management](Windows-11-app-management.md)
@@ -22,8 +22,7 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 ---
 
 ### macOS Essentials Guides
-- [Apple MacBook Essentials](Coming Soon)
-- [How to Boost MacOS Performance](Coming Soon)
+- [Apple MacBook Essentials](apple_essentials.md)
 
 ---
 
@@ -49,25 +48,18 @@ The [**Ubuntu Desktop Guide**](https://help.ubuntu.com) serves as the fundamenta
 
 --- 
 
-## General Guides
-- [Adobe PDF & Alternatives](pdf/adobe.pdf)
-- 
-- 
-- 
-- 
+### Learning MacOS, Linux, and Windows Command Lines
 
----
+Exploring the command line provides a deeper appreciation for the capabilities behind each operating system. These command cheatsheet resource offers advanced functionalities and can be particularly handy as a quick reference to enhance one's command line proficiency. 
 
-## Cheatsheets
 - [Apple MacOS Command Lines](pdf/MacOS Command Line Cheatsheet.pdf)
 - [Windows 11 Cheatsheet (downloadable pdf)](pdf/Windows-11-Cheatsheet.pdf)
 - [Linux Command Lines](pdf/Linux Essential Command Lines.pdf)
-- 
 
 ---
 
 ### Usage & Disclaimer
-All content is provided for educational and reference purposes only. Scripts, commands, and procedures are used at your own risk. Always back up critical data and adhere to organizational policies, security standards, and official vendor documentation. When in doubt, consult a qualified IT professional.
+All content is provided for educational and reference purposes only. Scripts, commands, and procedures are used at your own risk. While every effort has been made to ensure the accuracy of this guide, performing administrative tasks incorrectly can lead to issues such as data loss, compliance impacts, or service disruption. Always back up critical data and adhere to organizational policies, security standards, and official vendor documentation. When in doubt, consult a qualified IT professional.
 
 ---
 

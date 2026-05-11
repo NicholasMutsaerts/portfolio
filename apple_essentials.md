@@ -7,7 +7,7 @@ description: Apple MacBook Essentials
 
 ### Apple MacBook Essentials
 
-This Apple MacBook Essentials guide is designed to provide you with the foundational steps and key resources needed to optimize your MacBook or iPad experience.
+Apple offers a robust ecosystem of tools and support resources for MacBook and iPads users. This guide is designed to provide you with the foundational steps and key resources needed to optimize your MacBook or iPad experience.
 
 The journey begins on the Apple website via the [Apple Learning Center](https://education.apple.com/learning-center) and the [Apple Support Community](https://education.apple.com/forum). These resources offer a wealth of information tailored to various Apple products and services. Check out the [Apple YouTube Channel](https://www.youtube.com/user/Apple/videos) and the [Apple Device Support Tutorials](https://it-training.apple.com/tutorials/apt-support/).
 
@@ -32,7 +32,7 @@ Find My Device → Locate lost Apple devices and protect your data.
 Device Setup and Personalization → Customize settings and preferences across devices.
 Apple Support → Access warranty information and receive personalized assistance.
 
-**Helpful links:**
+For either device, it is important to create an Apple ID so that one can proceed to download relevant apps in the Apple Store. Here are helpful links:
 
 - [How to create a new Apple ID](https://support.apple.com/en-ca/HT204316)
 - [How to reset Apple ID](https://support.apple.com/en-ca/HT201487)
@@ -42,17 +42,17 @@ Apple Support → Access warranty information and receive personalized assistanc
 
 **Reset an account password**
 
-This process is useful if you forgot your Mac login password.
+This process is useful [if you forgot your Mac login password](https://support.apple.com/en-us/102633).
 
-1. Boot to Recovery Mode → `⌘ + R`
-2. Select Utilities > Terminal
+1. Boot to **Recovery Mode → `⌘ + R`**
+2. Select **Utilities > Terminal**
 3. Run this command: **resetpassword**
 4. Choose account & set new password.
 
 ---
 ### Add a user or group on MacBook computer
 
-Creating individual accounts on your Apple MacBook for each user is highly recommended, enabling personalized macOS desktop experiences.
+Creating individual accounts on your Apple MacBook for each user is highly recommended, enabling personalized MacOS desktop experiences. Utilizing group settings in MacOS facilitates shared access permissions, such as granting simultaneous rights to multiple users, or assigning group-specific permissions to files or folders. 
 
 For instructions on adding a user or group on MacOS, please refer to the following link: [Add a User or Group](https://support.apple.com/en-ca/guide/mac-help/mchl3e281fc9/mac). 
 
@@ -112,25 +112,25 @@ Consider using both a cloud storage and Time Machine. This approach ensures redu
 
 ### Basic Wi‑Fi Troubleshooting on macOS
 
-1. Check Wi‑Fi Status
+**1. Check Wi‑Fi Status**
 - Click the Wi‑Fi icon in the menu bar.
 - Ensure Wi‑Fi is turned on and you're connected to the correct network.
 
-2. Restart Wi‑Fi & macOS
+**2. Restart Wi‑Fi & macOS**
 - Turn Wi‑Fi off, wait 5–10 seconds, and turn it back on.
 - Restart your Mac if needed.
 
-3. Use Wireless Diagnostics Tool
+**3. Use Wireless Diagnostics Tool**
 - Hold `Option (⌥)` and click the Wi‑Fi icon.
 - Select Open Wireless Diagnostics…
 
-Or go to: `Applications > Utilities > Wireless Diagnostics`
+Or go to: **Applications > Utilities > Wireless Diagnostics**
 
-4. Check IP Address
+**4. Check IP Address**
 - Go to `System Settings > Network > Wi‑Fi`
 - Ensure you have a valid IP address.
 
-5. Renew DHCP Lease
+**5. Renew DHCP Lease**
 - Open Wi‑Fi settings
 - Select `TCP/IP > Renew Lease`
 
@@ -138,7 +138,7 @@ For more information, check out Apple MacBook link: [here](https://support.apple
 
 ---
 
-#### Slow computer performance
+### Slow computer performance
 
 System slowdowns are often caused by excessive background applications, insufficient disk space, or aging hardware.
 Click on the **Apple Menu** and choose **System Settings**. Scroll down and select **General > Login Items**. Under the **Open at Login** section:
@@ -148,13 +148,25 @@ Click on the **Apple Menu** and choose **System Settings**. Scroll down and sele
 
 ---
 
+### Free up storage space
+
+When disk space is nearly exhausted, performance can drop sharply because virtual memory is constrained. It is recommended to have 10-15% free disk storage space. Learn how to [optimize](https://support.apple.com/en-us/102624) storage using Apple’s recommendations.
+
+---
+
+### Regularly Update MacOS
+
+Keep your system's software up to date, including the operating system, packages, and applications, as updates often fix security vulnerabilities. To ensure your Apple device has the latest features and security enhancements, learn how to [update MacOS](https://support.apple.com/en-us/108382). Here is a fast method for checking for the latest versions:
+
+Go to System **Settings > General > Software Update**
+
+**Important:** Save all open files before proceeding with the installation of a macOS update. macOS update times can vary, so consider updating during a break or at the end of the day to avoid interruptions.
+
+---
+
 ### How to make macOS secure
 
 Securing your Apple MacBook involves a combination of best practices, system configuration, and regular maintenance. Below are key steps to enhance the security of your macOS device.
-
-- Regularly update macOS and all installed applications. Security vulnerabilities are often patched in updates. To ensure your Apple device has the latest features and security enhancements, learn how to [update MacOS](https://support.apple.com/en-us/108382). 
-
-**Important:** Save all open files before proceeding with the installation of a macOS update. macOS update times can vary, so consider updating during a break or at the end of the day to avoid interruptions.
 
 - Use [Time Machine](https://support.apple.com/en-ca/104984) to back up your files regularly
 - Enable a screensaver for privacy and security reasons. (See section above)
@@ -166,6 +178,7 @@ Securing your Apple MacBook involves a combination of best practices, system con
 ---
 
 ### Final Tips for macOS Beginners
+
 - Explore [System Settings](https://support.apple.com/en-ca/guide/mac-help/mh15217/mac) to personalize your Mac.
 - Use [Spotlight Search](https://support.apple.com/en-ca/guide/mac-help/mchlp1008/mac) (`Cmd + Space`) to quickly find apps and files.
 - Take advantage of [Trackpad Gestures](https://support.apple.com/en-ca/102482) for intuitive navigation.

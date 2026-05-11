@@ -50,7 +50,7 @@ This ensures all users are required to use MFA when accessing resources covered 
 
 ---
 
-#### Quick Links to Official Microsoft LEarn
+#### Quick Links to Official Microsoft Learn
 
 - [Conditional Access in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/conditional-access/)
 - [Enable Azure MFA](learn.microsoft.com/azure/active-directory/authentication/tutorial-enable-azure-mfa)
@@ -60,10 +60,12 @@ This ensures all users are required to use MFA when accessing resources covered 
 - [Zero Trust Security Principles: Microsoft Zero Trust Guidance](https://www.microsoft.com/en-us/security/business/zero-trust)
 
 ---
+#### Here are two infographics for reference. 
 
 ![MFA Infographic](images/How to Setup MFA.png)
 
 ![M365 Conditional Access Infographic](images/Microsoft 365 Conditional Access - Safe Zone.png)
+
 ---
 
 #### [Go to the Home Page](/)

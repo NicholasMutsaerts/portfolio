@@ -21,8 +21,9 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 
 ---
 
-### macOS Essentials Guides
+### Apple MacOS Essentials Guides
 - [Apple MacBook Essentials](apple_essentials.md)
+- [How to improve DNS for MacOS](MacOS_DNS.md)
 
 ---
 

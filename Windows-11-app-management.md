@@ -67,5 +67,6 @@ Below is a quick guide to the basic commands used in Terminal, Command Prompt, o
 
 **winget upgrade --all**
 
+---
 
 #### [Go to the Home Page](/)

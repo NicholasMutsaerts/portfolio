@@ -13,7 +13,7 @@ The Domain Name System (DNS) helps your Mac connect to websites faster by transl
 
 ---
 
-# Step 1: Open Network Settings
+### Step 1: Open Network Settings
 
 1. Click the **Apple Menu**  in the top-left corner.
 2. Select **System Settings**.
@@ -23,7 +23,7 @@ The Domain Name System (DNS) helps your Mac connect to websites faster by transl
 
 ---
 
-# Step 2: Select Your Network Connection
+### Step 2: Select Your Network Connection
 
 1. Choose the network service you are currently using:
    - Wi-Fi
@@ -32,7 +32,7 @@ The Domain Name System (DNS) helps your Mac connect to websites faster by transl
 
 ---
 
-# Step 3: Open DNS Settings
+### Step 3: Open DNS Settings
 
 1. In the settings window, click **DNS**.
 2. Under **DNS Servers**, click the **"+" (Add)** button.
@@ -44,9 +44,9 @@ You can add:
 
 ---
 
-# Recommended DNS Providers
+### Recommended DNS Providers
 
-## Google Public DNS
+#### Google Public DNS
 
 | Type | DNS Addresses |
 |------|----------------|
@@ -55,7 +55,7 @@ You can add:
 
 ---
 
-## Cloudflare DNS
+#### Cloudflare DNS
 
 | Type | DNS Addresses |
 |------|----------------|
@@ -64,7 +64,7 @@ You can add:
 
 ---
 
-## OpenDNS
+#### OpenDNS
 
 | Type | DNS Addresses |
 |------|----------------|
@@ -73,7 +73,7 @@ You can add:
 
 ---
 
-# Example Configuration
+### Example Configuration
 
 In this example, Google DNS servers were added to the DNS Servers list.
 
@@ -85,7 +85,7 @@ This is required to authorize system-level network changes.
 
 ---
 
-# Final Step
+### Final Step
 
 1. After entering the DNS addresses, click **OK**.
 2. Close the settings window.
@@ -94,7 +94,7 @@ Your Mac will now use the new DNS servers.
 
 ---
 
-# Benefits of Faster DNS Servers
+### Benefits of Faster DNS Servers
 
 - ✅ Faster website loading
 - ✅ Improved browsing reliability
@@ -103,7 +103,7 @@ Your Mac will now use the new DNS servers.
 
 ---
 
-# Quick Recommendation
+### Quick Recommendation
 
 | Best For | Recommended DNS |
 |----------|-----------------|

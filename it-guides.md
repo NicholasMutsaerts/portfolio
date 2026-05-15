@@ -84,12 +84,6 @@ All content is provided for educational and reference purposes only. Scripts, co
 
 ---
 
-## [External Links](ExternalLinks.md)
-
-A curated set of external resources to help IT professionals stay current with emerging tools, best practices, and real-world solutions.
-
----
-
 ## Support This Project
 
 If you find these guides helpful, consider supporting the project.

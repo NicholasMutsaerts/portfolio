@@ -9,7 +9,7 @@ Every IT professional knows the challenges of rebuilding a system or configuring
 Tools like **Ninite**, **Patch My PC**, and **WinGet** streamline installations, reduce security risks, and eliminate unnecessary bloat — saving IT teams countless hours while improving security posture.
 
 ---
-## Ninite – The Classic Favorite
+### Ninite – The Classic Favorite
 
 [Ninite](https://ninite.com/) has been trusted by millions for years. Its appeal lies in simplicity:
 
@@ -21,7 +21,7 @@ Tools like **Ninite**, **Patch My PC**, and **WinGet** streamline installations,
 For IT admins, **Ninite Pro** integrates with enterprise tools like Intune, making it a staple in professional environments.
 
 ---
-## Patch My PC – Security Meets Convenience
+### Patch My PC – Security Meets Convenience
 
 [Patch My PC Home Updater](https://patchmypc.com/) takes automation further by focusing on security:
 
@@ -33,7 +33,7 @@ For IT admins, **Ninite Pro** integrates with enterprise tools like Intune, maki
 This makes Patch My PC especially valuable for users who want peace of mind that vulnerabilities are being closed before hackers exploit them. Enterprise admins benefit from support for **Microsoft Intune** and **ConfigMgr**.
 
 ---
-## WinGet – Microsoft’s Built-In Package Manager
+### WinGet – Microsoft’s Built-In Package Manager
 
 The Windows Package Manager (**winget**) is a powerful command-line tool for managing software packages on Windows. Winget can be installed via the Microsoft Store within the [**App Installer**](https://apps.microsoft.com/detail/9nblggh4nns1) package.
 
@@ -41,31 +41,31 @@ The Windows Package Manager (**winget**) is a powerful command-line tool for man
 
 Below is a quick guide to the basic commands used in Terminal, Command Prompt, or PowerShell (run as administrator).
 
-### Show all installed applications
-winget list
+#### Show all installed applications
 
-### To search for application, use: 		
-```powershell
-winget search <appname>
+**winget list**
 
-### To Install an application, use:
-```powershell
-winget install <app_name>
+#### To search for application, use: 		
 
-### Uninstall an application, use:
-```powershell
-winget uninstall <app_name>
+**winget search <appname>**
 
-### Update Applications
+#### To Install an application, use:
 
-### To upgrade an application, use:
-```powershell
-winget upgrade <appname>
+**winget install <app_name>**
 
-### To upgrade all applications, use:
-```powershell
-winget upgrade --all
+#### Uninstall an application, use:
 
----
+**winget uninstall <app_name>**
+
+#### Update Applications
+
+#### To upgrade an application, use:
+
+**winget upgrade <appname>**
+
+#### To upgrade all applications, use:
+
+**winget upgrade --all**
+
 
 #### [Go to the Home Page](/)

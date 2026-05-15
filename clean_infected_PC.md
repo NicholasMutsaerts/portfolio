@@ -1,4 +1,7 @@
-## Cleaning an Infected Windows PC: A Practical IT Guide
+---
+layout: default
+title: "IT Help Desk Guides"        # override site.title
+description: "Streamlining Windows 11 Application Management"  # override site.description
 
 Malware infections remain one of the most common and disruptive incidents faced by IT support teams. A successful cleanup requires a structured and methodical approach to fully remove threats and restore system integrity. 
 
@@ -38,10 +41,10 @@ Procced to fully update:
 - Antivirus definitions
 - Browsers and third-party software
 
- ### 9. Rotate Credentials
+### 9. Rotate Credentials
 After cleanup, change all critical passwords (email, banking, admin accounts). Use a password manager like Bitwarden or LastPass, and enable MFA.
 
- ### 10. Back Up Data (if Not Done Already)
+### 10. Back Up Data (if Not Done Already)
 Once confirmed clean, back up critical files to external or cloud storage.
 
 ---

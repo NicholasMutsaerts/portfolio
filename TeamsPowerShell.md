@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Mastering Microsoft Teams Administration with PowerShell"        # override site.title
-description: ""  # override site.description
+title: "IT Guides"        # override site.title
+description: "Mastering Microsoft Teams Administration with PowerShell"  # override site.description
 ---
 
 As Microsoft Teams continues to evolve as a core collaboration tool in modern workplaces, IT administrators are constantly seeking efficient methods to manage Teams at scale. Let us delve into the essential steps to get started.

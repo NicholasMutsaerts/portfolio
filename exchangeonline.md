@@ -1,4 +1,9 @@
-## Microsoft 365 Exchange Online Essentials Guide
+---
+layout: default
+title: "IT Help Desk Guides"        # override site.title
+description: "Microsoft 365 Exchange Online Essentials Guide"  # override site.description
+
+---
 
 Now that organizations are transitioning to the cloud, learning how to use PowerShell for administering Microsoft 365 Exchange Online becomes vital for IT support specialists. This guide will be highlighting the following steps:
 

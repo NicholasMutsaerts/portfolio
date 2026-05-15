@@ -1,11 +1,9 @@
 ---
 layout: default
-title: IT Technical Support Guides
-description: Troubleshooting network connectivity with Winsock
+title: "IT Help Desk Guides"        # override site.title
+description: "Troubleshooting Network Connectivity with Netsh & Winsock"  # override site.description
 
 ---
-
-### Troubleshooting Network Connectivity with Netsh & Winsock
 
 Network connectivity issues in Windows can persist even when a device appears connected to Wi‑Fi or Ethernet. In many cases, the underlying issue is a corrupted or misconfigured network stack. One of the most effective remediation steps is performing a **Winsock reset** using the built-in **Netsh** utility.
 
@@ -67,5 +65,5 @@ For advanced troubleshooting, refer to Microsoft’s official documentation on f
 For IT Help Desk and System Administration roles, understanding and applying tools like Netsh enables faster incident resolution, reduced downtime, and more effective end-user support. Automating these steps can further streamline troubleshooting workflows and improve consistency across support teams.
 
 ---
-IT Technical Support Guides
-[Go to the Home Page]({{ '/' | absolute_url }})
+
+#### [Go to the Home Page](/)

@@ -30,16 +30,14 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 ### Microsoft 365 Administration
 - [E-mail Retention and Archiving in Microsoft 365](Coming Soon)
 - [Export Office 365 Mailbox PDF](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
+- [Microsoft 365 Exchange Distribution Lists (Downloadable PDF)](pdf/Microsoft Online Distribution Lists.pdf)
+- [Microsoft Distribution List Infographic](images/M365 Distribution Lists.png)
 - [Microsoft 365 Exchange Online](exchangeonline.md)
+- [Microsoft 365 Exchange Online (Downloadable PDF)](pdf/Microsoft 365 Exchange Online.pdf)
 - [Mastering Microsoft Teams Administration with PowerShell](TeamsPowerShell.md)
 - [MFA & Conditional Access](mfa-conditional-access.md)
-
----
-
-### Windows Server & Networking
-- [Understanding DNS Optimization](Coming Soon)
-- [Monitoring Open Files on Windows](Coming Soon)
-- [NET USE Command Guide](Coming Soon)
+- ![MFA Infographic](images/How to Setup MFA.png)
+- ![M365 Conditional Access Infographic](images/Microsoft 365 Conditional Access - Safe Zone.png)
 
 ---
 
@@ -65,7 +63,6 @@ Once you become familiar with Ubuntu and Zorin, try out other popular Linux dist
 - [Linux Minut](https://linuxmint.com/)
 - [Pop OS](https://system76.com/pop/?srsltid=AfmBOoqAYCdthm9sq00GMyD-kWFpINnoxaarjKiqluWmZnodPPKP8HEj)
 - [Manjaro](https://manjaro.org/)
-
 
 --- 
 

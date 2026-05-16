@@ -66,6 +66,8 @@ This ensures all users are required to use MFA when accessing resources covered 
 
 ![M365 Conditional Access Infographic](images/Microsoft 365 Conditional Access - Safe Zone.png)
 
+
+
 ---
 
 #### [Go to the Home Page](/)

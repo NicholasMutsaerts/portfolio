@@ -24,6 +24,8 @@ PowerShell is a game-changer for managing Microsoft Teams at scale. Here is an i
 | Add users to a Team                                  | `Add-TeamMember`                                        |
 | Manage channels within a Team                        | `Get-Channel`, `New-Channel`                            |
 | Manage Teams app policies and settings               | `Get-CsTeamsAppPolicy`, `Set-CsTeamsAppPolicy`          |
+| Remove a standard channel                            | `Remove-TeamsChannels -GroupID <TeamId> -Displayname "Channel Name"' |
+| Remove a private channel                             |  Remove-TeamsChannels -GroupID <TeamId> -Displayname "Private Channel Name" - Force'  |
 
 ---
 ## Microsoft Teams AI Policies

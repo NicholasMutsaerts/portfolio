@@ -41,17 +41,17 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 
 #### Linux Operating Systems
 
-This downloadable pdf guide is a beginner-friendly introduction to learning the Linux desktop through Ubuntu 26.04 LTS, focusing on everyday usability, core Linux concepts, and a smooth transition for new users. To provide a safe, flexible learning environment, this guide explores running Linux in VirtualBox, allowing users to experiment without affecting their primary operating system
+This **Ubuntu Essentials Beginner's Guide** downloadable pdf guide serves as an indispensable resource to learning the Linux desktop through Ubuntu 26.04 LTS, focusing on everyday usability, core Linux concepts, and a smooth transition for new users. To provide a safe, flexible learning environment, this guide explores running Linux in VirtualBox, allowing users to experiment without affecting their primary operating system.
 
 - [Ubuntu Desktop User Experience](pdf/Ubuntu Desktop User Experience.pdf)
 
 **Ubuntu Links:**
-- [**Ubuntu Desktop Guide**](https://help.ubuntu.com) 
-- [**Ubuntu Help**](https://help.ubuntu.com/) 
-- [**Ask Ubuntu**](https://askubuntu.com/)
+- [Ubuntu Desktop Guide](https://help.ubuntu.com) 
+- [Ubuntu Help](https://help.ubuntu.com/) 
+- [Ask Ubuntu](https://askubuntu.com/)
 - [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
 
-Zorin 18 has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences.
+[**Zorin 18**](https://zorin.com/os/) has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences.
 
 - [Install Zorin 18 in Virtualbox](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
 

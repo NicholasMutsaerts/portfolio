@@ -60,6 +60,11 @@ Microsoft Teams includes AI capabilities such as facial recognition, voice enrol
 | `New-Team -DisplayName "Project X Team"` | Creates a new team named **Project X Team** |
 | `Add-TeamUser -GroupId <TeamID> -User <UserEmail>` | Adds a user to the specified team |
 
+---
+
+### Microsoft Teams PowerShell Quick Reference Infographic
+
+[Microsoft Teams PowerShell Infographic (downloadable PDF)](pdf/Microsoft_Teams_PowerShell_Infographic.pdf)
 
 ---
 ### External Source Links:
@@ -74,7 +79,5 @@ Microsoft Teams includes AI capabilities such as facial recognition, voice enrol
 -	[Add-TeamUser](https://learn.microsoft.com/en-us/powershell/module/teams/add-teamuser?view=teams-ps)
 
 ---
-
-#### [Go to the Home Page](/)
 
 #### [Go to the Home Page](/)

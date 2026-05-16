@@ -36,8 +36,6 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 - [Microsoft 365 Exchange Online (Downloadable PDF)](pdf/Microsoft 365 Exchange Online.pdf)
 - [Mastering Microsoft Teams Administration with PowerShell](TeamsPowerShell.md)
 - [MFA & Conditional Access](mfa-conditional-access.md)
-- ![MFA Infographic](images/How to Setup MFA.png)
-- ![M365 Conditional Access Infographic](images/Microsoft 365 Conditional Access - Safe Zone.png)
 
 ---
 

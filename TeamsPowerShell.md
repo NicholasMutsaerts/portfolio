@@ -62,15 +62,17 @@ Microsoft Teams includes AI capabilities such as facial recognition, voice enrol
 ---
 ### External Source Links:
 
-•	[Microsoft Teams PowerShell Overview](https://learn.microsoft.com/en-us/microsoftteams/teams-powershell-overview)
-•	[Microsoft Teams PowerShell](https://learn.microsoft.com/en-us/microsoftteams/teams-powershell-install)
-•	[Manage Teams with Microsoft Teams PowerShell](https://learn.microsoft.com/en-us/microsoftteams/teams-powershell-managing-teams)
-•	[Get-CsTeamsAIPolicy](https://learn.microsoft.com/en-us/powershell/module/teams/get-csteamsaipolicy?view=teams-ps)
-•	[Set-CsTeamsAIPolicy](https://learn.microsoft.com/en-us/powershell/module/teams/set-csteamsaipolicy?view=teams-ps)
-•	[New-CsTEamsAIPolicy](https://learn.microsoft.com/en-us/powershell/module/teams/new-csteamsaipolicy?view=teams-ps)
-•	[New-Team](https://learn.microsoft.com/en-us/powershell/module/teams/new-team?view=teams-ps)
-•	[Add-TeamUser](https://learn.microsoft.com/en-us/powershell/module/teams/add-teamuser?view=teams-ps)
+-	[Microsoft Teams PowerShell Overview](https://learn.microsoft.com/en-us/microsoftteams/teams-powershell-overview)
+-	[Microsoft Teams PowerShell](https://learn.microsoft.com/en-us/microsoftteams/teams-powershell-install)
+-	[Manage Teams with Microsoft Teams PowerShell](https://learn.microsoft.com/en-us/microsoftteams/teams-powershell-managing-teams)
+-	[Get-CsTeamsAIPolicy](https://learn.microsoft.com/en-us/powershell/module/teams/get-csteamsaipolicy?view=teams-ps)
+-	[Set-CsTeamsAIPolicy](https://learn.microsoft.com/en-us/powershell/module/teams/set-csteamsaipolicy?view=teams-ps)
+-	[New-CsTEamsAIPolicy](https://learn.microsoft.com/en-us/powershell/module/teams/new-csteamsaipolicy?view=teams-ps)
+-	[New-Team](https://learn.microsoft.com/en-us/powershell/module/teams/new-team?view=teams-ps)
+-	[Add-TeamUser](https://learn.microsoft.com/en-us/powershell/module/teams/add-teamuser?view=teams-ps)
 
 ---
+
+#### [Go to the Home Page](/)
 
 #### [Go to the Home Page](/)

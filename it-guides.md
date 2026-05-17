@@ -29,8 +29,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ---
 
-### Microsoft 365 Administration
-- [E-mail Retention and Archiving in Microsoft 365](Coming Soon)
+### Microsoft 365 Administration & PowerShell 
 - [Export Office 365 Mailbox PDF](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
 - [Microsoft 365 Exchange Distribution Lists (Downloadable PDF)](pdf/Microsoft Online Distribution Lists.pdf)
 - [Microsoft Distribution List Infographic](images/M365 Distribution Lists.png)
@@ -81,7 +80,6 @@ Exploring the command line provides a deeper appreciation for the capabilities b
 
 ### Usage & Disclaimer
 All content is provided for educational and reference purposes only. Scripts, commands, and procedures are used at your own risk. While every effort has been made to ensure the accuracy of this guide, performing administrative tasks incorrectly can lead to issues such as data loss, compliance impacts, or service disruption. Always back up critical data and adhere to organizational policies, security standards, and official vendor documentation. When in doubt, consult a qualified IT professional.
-
 
 ---
 

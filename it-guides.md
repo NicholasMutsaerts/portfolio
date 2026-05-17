@@ -33,8 +33,9 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 - [Microsoft 365 Exchange Distribution Lists (Downloadable PDF)](pdf/Microsoft Online Distribution Lists.pdf)
 - [Microsoft Distribution List Infographic](images/M365 Distribution Lists.png)
 - [Microsoft 365 Exchange Online](exchangeonline.md)
-- [Microsoft 365 Exchange Online (Downloadable PDF)](pdf/Microsoft 365 Exchange Online.pdf)
+- [Microsoft 365 Exchange Online (Downloadable PDF)](pdf/Microsoft 365 Exchange PowerShell Commands.pdf)
 - [Mastering Microsoft Teams Administration with PowerShell](TeamsPowerShell.md)
+- [Microsoft Teams Quick Reference PDF](pdf/Microsoft_Teams_PowerShell.pdf)
 - [MFA & Conditional Access](mfa-conditional-access.md)
 
 ---
@@ -43,7 +44,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 This **Ubuntu Essentials Beginner's Guide** pdf provides a practical introduction to the Linux desktop using **Ubuntu 26.04 LTS**. Created for beginners, it focuses on everyday usability, foundational Linux concepts, and helping new users transition confidently into the Linux environment.
 
-To support a safe and flexible learning experience, the guide also explains how to run Ubuntu in **VirtualBox**, allowing users to explore and practice Linux without affecting their primary operating system.
+To support a safe and flexible learning experience, the guide also explains how to run Ubuntu in [**VirtualBox**](https://www.virtualbox.org/), allowing users to explore and practice Linux without affecting their primary operating system.
 
 - [Ubuntu Desktop User Experience](pdf/Ubuntu Desktop User Experience.pdf)
 
@@ -53,9 +54,7 @@ To support a safe and flexible learning experience, the guide also explains how 
 - [Ask Ubuntu](https://askubuntu.com/)
 - [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
 
-[**Zorin 18**](https://zorin.com/os/) has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences.
-
-- [Install Zorin 18 in Virtualbox](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
+[**Zorin 18**](https://zorin.com/os/) has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences. Here are the steos to [install Zorin 18 in Virtualbox](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
 
 Once you become familiar with Ubuntu and Zorin, try out other popular Linux distributions, including:
 
@@ -73,6 +72,8 @@ Exploring the command line provides a deeper appreciation for the capabilities b
 - [Apple MacOS Command Lines](pdf/MacOS Command Line Cheatsheet.pdf)
 - [Windows 11 Cheatsheet (downloadable pdf)](pdf/Windows-11-Cheatsheet.pdf)
 - [Linux Command Lines](pdf/Linux Essential Command Lines.pdf)
+
+
 
 ---
 

@@ -40,13 +40,11 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ---
 
-#### Linux Operating Systems
+#### Ubuntu Essentials Beginner's Guide & Virtualization
 
-This **Ubuntu Essentials Beginner's Guide** pdf provides a practical introduction to the Linux desktop using **Ubuntu 26.04 LTS**. Created for beginners, it focuses on everyday usability, foundational Linux concepts, and helping new users transition confidently into the Linux environment.
+This **Ubuntu Essentials Beginner's Guide** provides a practical introduction to the Linux desktop using **Ubuntu 26.04 LTS**. Created for beginners, it focuses on everyday usability, foundational Linux concepts, and helping new users transition confidently into the Linux environment.[Ubuntu Desktop User Experience](pdf/Ubuntu Desktop User Experience.pdf) is a downloadable PDF guide. Each section introduces foundational concepts that support continued learning and deeper exploration of Linux and Ubuntu.
 
 To support a safe and flexible learning experience, the guide also explains how to run Ubuntu in [**VirtualBox**](https://www.virtualbox.org/), allowing users to explore and practice Linux without affecting their primary operating system.
-
-- [Ubuntu Desktop User Experience](pdf/Ubuntu Desktop User Experience.pdf)
 
 **Ubuntu Links:**
 - [Ubuntu Desktop Guide](https://help.ubuntu.com) 

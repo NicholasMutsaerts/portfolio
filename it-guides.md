@@ -23,7 +23,9 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ### Apple MacOS Essentials Guides
 - [Apple MacBook Essentials](apple_essentials.md)
+- [Apple MacBook Essential (downloadable PDF](pdf/Apple MacBook Essentials.pdf)
 - [How to improve DNS for MacOS](MacOS_DNS.md)
+- [How to troubleshoot MacOS Connectivity to Samba File Server (downloadable PDF](pdf/MacOS_Connectivity_Issues.pdf)
 
 ---
 
@@ -56,12 +58,14 @@ To support a safe and flexible learning experience, the guide also explains how 
 
 [**Zorin 18**](https://zorin.com/os/) has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences. Here are the steos to [install Zorin 18 in Virtualbox](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
 
-Once you become familiar with Ubuntu and Zorin, try out other popular Linux distributions, including:
+Once you become familiar with Ubuntu and Zorin, try out other popular Linux distributions, including [Fedora](https://www.fedoraproject.org/), [Linux Minut](https://linuxmint.com/), [Pop OS](https://system76.com/pop/?srsltid=AfmBOoqAYCdthm9sq00GMyD-, kWFpINnoxaarjKiqluWmZnodPPKP8HEj), and [Manjaro](https://manjaro.org/)
 
-- [Fedora](https://www.fedoraproject.org/)
-- [Linux Minut](https://linuxmint.com/)
-- [Pop OS](https://system76.com/pop/?srsltid=AfmBOoqAYCdthm9sq00GMyD-kWFpINnoxaarjKiqluWmZnodPPKP8HEj)
-- [Manjaro](https://manjaro.org/)
+---
+
+### Office Suites and PDF Software
+
+- [Adobe Acrobat Essentials (downloadable PDF)](pdf/Adobe Acrobat Pro.pdf)
+
 
 --- 
 

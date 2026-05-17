@@ -122,7 +122,9 @@ An example output might look like this image below.
 
 **Remove-MailboxFolderPermission -Identity user@domain.com:\Calendar -User otheruser@domain.com**
 
-All guides are meant for educational purposes. Here is a Microsoft 365 Exchange command line cheat sheet that focuses on mailbox and calendar permissions. Even thought users can delegate [Calendar sharing in Microsoft 365](https://support.microsoft.com/en-us/office/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4), there might be scenarios in which IT staff are requested to change the permission levels on a particular staff member. To learn more about the difference calendar permission, visit [CalendarPermissionLevel | Microsoft](https://learn.microsoft.com/en-us/exchange/client-developer/web-service-reference/calendarpermissionlevel).
+---
+
+Here is a Microsoft 365 Exchange command line cheat sheet that focuses on mailbox and calendar permissions. Even thought users can delegate [Calendar sharing in Microsoft 365](https://support.microsoft.com/en-us/office/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4), there might be scenarios in which IT staff are requested to change the permission levels on a particular staff member. To learn more about the difference calendar permission, visit [CalendarPermissionLevel | Microsoft](https://learn.microsoft.com/en-us/exchange/client-developer/web-service-reference/calendarpermissionlevel).
 
 ---
 

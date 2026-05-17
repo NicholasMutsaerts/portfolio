@@ -78,18 +78,6 @@ Exploring the command line provides a deeper appreciation for the capabilities b
 ### Usage & Disclaimer
 All content is provided for educational and reference purposes only. Scripts, commands, and procedures are used at your own risk. While every effort has been made to ensure the accuracy of this guide, performing administrative tasks incorrectly can lead to issues such as data loss, compliance impacts, or service disruption. Always back up critical data and adhere to organizational policies, security standards, and official vendor documentation. When in doubt, consult a qualified IT professional.
 
----
-
-## Support This Project
-
-If you find these guides helpful, consider supporting the project.
-
-Your support helps:
-- Maintain and update documentation
-- Add new troubleshooting guides
-- Improve clarity and accuracy
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/nicholasmug)
 
 ---
 

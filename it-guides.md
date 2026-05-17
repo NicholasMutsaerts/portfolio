@@ -4,11 +4,11 @@ title: IT Technical Support Guides
 description: Welcome to my IT knowledge base
 ---
 
-These **IT Technical Support Guides** provide clear, practical support for everyday technical tasks, drawing on real-world experience across **Windows, macOS, Linux, and Microsoft 365**.
+These **IT Technical Support Guides** deliver clear, practical guidance for everyday technical tasks, built from real-world experience supporting **Windows, macOS, Linux, and Microsoft 365** environments.
 
-They highlight **common issues**, provide **step-by-step resolutions**, and **proven best practices** to strengthen troubleshooting skills, build confidence, and streamline support workflows. A well-structured knowledge base **accelerates issue resolution** and enhances overall help desk efficiency.
+Each guide focuses on **common technical issues**, offering **step-by-step solutions**, troubleshooting techniques, and **proven best practices** to improve efficiency, strengthen problem-solving skills, and build user confidence. A well-organized knowledge base helps **reduce resolution times**, improve consistency, and enhance overall help desk performance.
 
-These quick-reference documents are **updated regularly** to ensure they remain accurate and relevant.
+These quick-reference resources are **reviewed and updated regularly** to ensure the information remains accurate, relevant, and aligned with current technologies and support standards.
 
 ---
 
@@ -41,7 +41,9 @@ These quick-reference documents are **updated regularly** to ensure they remain 
 
 #### Linux Operating Systems
 
-This **Ubuntu Essentials Beginner's Guide** downloadable pdf guide serves as an indispensable resource to learning the Linux desktop through Ubuntu 26.04 LTS, focusing on everyday usability, core Linux concepts, and a smooth transition for new users. To provide a safe, flexible learning environment, this guide explores running Linux in VirtualBox, allowing users to experiment without affecting their primary operating system.
+This **Ubuntu Essentials Beginner's Guide** pdf provides a practical introduction to the Linux desktop using **Ubuntu 26.04 LTS**. Created for beginners, it focuses on everyday usability, foundational Linux concepts, and helping new users transition confidently into the Linux environment.
+
+To support a safe and flexible learning experience, the guide also explains how to run Ubuntu in **VirtualBox**, allowing users to explore and practice Linux without affecting their primary operating system.
 
 - [Ubuntu Desktop User Experience](pdf/Ubuntu Desktop User Experience.pdf)
 

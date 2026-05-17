@@ -42,7 +42,9 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 #### Ubuntu Essentials Beginner's Guide & Virtualization
 
-This **Ubuntu Essentials Beginner's Guide** provides a practical introduction to the Linux desktop using **Ubuntu 26.04 LTS**. Created for beginners, it focuses on everyday usability, foundational Linux concepts, and helping new users transition confidently into the Linux environment.[Ubuntu Desktop User Experience](pdf/Ubuntu Desktop User Experience.pdf) is a downloadable PDF guide. Each section introduces foundational concepts that support continued learning and deeper exploration of Linux and Ubuntu.
+This **Ubuntu Essentials Beginner's Guide** provides a practical introduction to the Linux desktop using **Ubuntu 26.04 LTS**. Created for beginners, it focuses on everyday usability, foundational Linux concepts, and helping new users transition confidently into the Linux environment.
+
+[**Ubuntu Desktop User Experience**](pdf/Ubuntu Desktop User Experience.pdf) is a downloadable PDF guide. Each section introduces foundational concepts that support continued learning and deeper exploration of Linux and Ubuntu.
 
 To support a safe and flexible learning experience, the guide also explains how to run Ubuntu in [**VirtualBox**](https://www.virtualbox.org/), allowing users to explore and practice Linux without affecting their primary operating system.
 
@@ -70,8 +72,6 @@ Exploring the command line provides a deeper appreciation for the capabilities b
 - [Apple MacOS Command Lines](pdf/MacOS Command Line Cheatsheet.pdf)
 - [Windows 11 Cheatsheet (downloadable pdf)](pdf/Windows-11-Cheatsheet.pdf)
 - [Linux Command Lines](pdf/Linux Essential Command Lines.pdf)
-
-
 
 ---
 

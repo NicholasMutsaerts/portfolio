@@ -9,6 +9,12 @@ This guide outlines common Windows 11 issues encountered in help desk and junior
 
 ---
 
+### Troubleshooting a computer that will not turn on
+
+Start by checking the power source, cables, and outlet. Look for signs of power, such as lights or fans. Try a different power cable or outlet. If it powers on, but will not book, disconnect the peripherals and check hardware, like RAM.
+
+---
+
 ### Slow System Performance 
 
 Performance can suffer from excessive background applications or limited disk space. Constantly maintain your system by closing unused programs, clearing temporary files, and running disk cleanup. 
@@ -35,7 +41,7 @@ Deployment Imaging Service and Management Tool (DISM) is Used to fix Windows ima
 
 ### Network and Internet Connectivity Problems
 
-Restarting the router and checking if the device is connected to the right network. Verify the IP configuration. Basic troubleshooting for internet connectivity should include restarting the router and checking the cables.
+Restarting the router and checking if the device is connected to the right network. Verify the IP configuration. Basic troubleshooting for internet connectivity should include restarting the router and checking the cables. Determine if the issue is affecting one user or more.
 
 In Windows 11, use the **netsh winsock reset** command when experiencing network connectivity issues that cannot be resolved through standard troubleshooting steps. 
 
@@ -56,6 +62,12 @@ Consider running an Internet speed test in order to verify upload and download s
 ### Forgotten Password
 
 Password resets are a common tasks for helpdesk teams. Implementing self-service password reset tools can simplify this process and minimize downtime. Encourage users to enable two-factor authentication for enhanced security and use password managers to prevent forgotten passwords. Tools like [LastPass](https://www.lastpass.com/), [NordPass](https://nordpass.com/) and [Bitwarden](https://bitwarden.com/) are excellent options. 
+
+---
+
+### Microsoft Outlook Connectivity Issues
+
+Proceed to verify connectivity, confirm Outlook is not in **Offline Mode**, manually run **Send/Receive**, Check Junk E-mail and deleted Items folder, check mailbox capacity, confirm account configuration, and restart & update. 
 
 ---
 
@@ -83,9 +95,35 @@ For local printers, ensure that the printer cable is properly connected. Check o
 
 ---
 
-## Software Crashes or Freezes
+### Software Crashes or Freezes
 
 Instruct the user to close and reopen the application or restart their computer. If the issue persists, proceed to assist with updating software updates or reinstalling the application. For Windows 11, consider updating drivers via Device Manager. Check out [How to install Windows Updates](https://support.microsoft.com/en-us/windows/install-windows-updates-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a#:~:text=To%20check%20for%20updates%2C%20select,can%20choose%20to%20install%20them.&text=If%20you%20run%20into%20problems,at%20Troubleshoot%20problems%20updating%20Windows.). 
+
+---
+
+### How to setup MFA in Microsoft 365 Administration
+
+**Short Answer:**
+1. Sign in to Microsoft 365 Admin Center
+2. Go to Users --> Active users
+3. Select a user --> Manage multifactor authentication
+4. Enable MFA for the user
+5. User signs in and sets up MFA (Authenticator app, phone, etc.)
+
+**Alternatively:** Use Microsoft Entra ID (Azure AD) --> Security --> Conditional Access to enforce MFA for all users. 
+
+---
+
+### How to setup Conditional Access
+
+**Short Answer (Microsoft 365 / Entra ID)**
+1.	Sign in to Microsoft Entra admin center
+2.	Go to Security  Conditional Access
+3.	Click + New Policy
+4.	Choose Users (who it applies to)
+5.	Choose Cloud apps (what it protects)
+6.	Under Access controls, select Grant  Require multi-factor authentication
+7.	Enable the policy and Save.
 
 ---
 
@@ -136,10 +174,7 @@ In IT helpdesk support, many technical issues can be resolved through quick and 
 
 ---
 
-#### Here is a quick downloadable cheatsheet
-
-![Common IT Troubleshooting Scenarios Cheatsheet](images/Common_IT_Troubleshooting_Scenarios_Windows11.png)
-[Common IT Troubleshooting Scenarios (PDF Download)](pdf/Common IT Troubleshooting Scenarios.pdf)
+#### [Go to the Home Page](/)
 
 ---
 

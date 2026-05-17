@@ -53,7 +53,14 @@ To support a safe and flexible learning experience, the guide also explains how 
 - [Ubuntu Desktop Guide](https://help.ubuntu.com) 
 - [Ubuntu Help](https://help.ubuntu.com/) 
 - [Ask Ubuntu](https://askubuntu.com/)
-- [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
+- [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+
+**Additional Resources** for a deeper dive into Linux
+- [Linux File Management Cheatsheet](pdf/Linux_File_Management_CheatSheet.pdf)
+- [Deja Dup Backups](https://apps.gnome.org/DejaDup/)
+- [Install and configure Samba](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview)
+- [UFW - Uncomplicated Firewall](https://help.ubuntu.com/community/UFW) & [GUI UFW App](https://help.ubuntu.com/community/Gufw)
+- [Install PowerShell 7 on Ubuntu](https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu?view=powershell-7.6)
 
 [**Zorin 18**](https://zorin.com/os/) has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences. Here are the steos to [install Zorin 18 in Virtualbox](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
 

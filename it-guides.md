@@ -23,15 +23,15 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ### Apple MacOS Essentials Guides
 - [Apple MacBook Essentials](apple_essentials.md)
-- [Apple MacBook Essential (downloadable PDF](pdf/Apple MacBook Essentials.pdf)
+- [Apple MacBook Essential (downloadable PDF)](pdf/Apple MacBook Essentials.pdf)
 - [How to improve DNS for MacOS](MacOS_DNS.md)
-- [How to troubleshoot MacOS Connectivity to Samba File Server (downloadable PDF](pdf/MacOS_Connectivity_Issues.pdf)
+- [How to troubleshoot MacOS Connectivity to Samba File Server (downloadable PDF)](pdf/MacOS_Connectivity_Issues.pdf)
 - [Apple Support - YouTube Channel](https://www.youtube.com/@applesupport)
 
 ---
 
 ### Microsoft 365 Administration & PowerShell 
-- [Export Office 365 Mailbox PDF](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
+- [Export Office 365 Mailbox (downloadable PDF)](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
 - [Microsoft 365 Exchange Distribution Lists (Downloadable PDF)](pdf/Microsoft Online Distribution Lists.pdf)
 - [Microsoft Distribution List Infographic](images/M365 Distribution Lists.png)
 - [Microsoft 365 Exchange Online](exchangeonline.md)
@@ -56,7 +56,7 @@ To support a safe and flexible learning experience, the guide also explains how 
 - [Ask Ubuntu](https://askubuntu.com/)
 - [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
-**Additional Resources** for a deeper dive into Linux
+**Additional Resources** for a deeper dive into Ubuntu
 - [Linux File Management Cheatsheet](pdf/Linux_File_Management_CheatSheet.pdf)
 - [Deja Dup Backups](https://apps.gnome.org/DejaDup/)
 - [Install and configure Samba](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview)
@@ -72,7 +72,8 @@ Once you become familiar with Ubuntu and Zorin, try out other popular Linux dist
 ### Office Suites and PDF Software
 
 - [Adobe Acrobat Essentials (downloadable PDF)](pdf/Adobe Acrobat Pro.pdf)
-
+- [How to change picture profile and Microsoft Teams background Infographic (downloadable pdf)](pdf/Microsoft Teams Quick Guide.pdf)
+- 
 
 --- 
 

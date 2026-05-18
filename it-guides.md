@@ -15,9 +15,9 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 ### Apple MacOS Essentials Guides
 - [Apple MacBook Essentials](apple_essentials.md)
 - [Apple MacBook Essential (downloadable PDF)](pdf/Apple MacBook Essentials.pdf)
+- [Apple MacOS Command Lines](pdf/MacOS Command Line Cheatsheet.pdf)
 - [How to improve DNS for MacOS](MacOS_DNS.md)
 - [How to troubleshoot MacOS Connectivity to Samba File Server (downloadable PDF)](pdf/MacOS_Connectivity_Issues.pdf)
-- [Apple Support - YouTube Channel](https://www.youtube.com/@applesupport)
 
 --- 
 
@@ -42,30 +42,9 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ---
 
-### Ubuntu Essentials Beginner's Guide & Virtualization
+### [Ubuntu Essentials Beginner's Guide & Virtualization]((Ubuntu_Beginners_Guide.md))
 
-This **Ubuntu Essentials Beginner's Guide** provides a practical introduction to the Linux desktop using **Ubuntu 26.04 LTS**. Created for beginners, it focuses on everyday usability, foundational Linux concepts, and helping new users transition confidently into the Linux environment.
-
-[**Ubuntu Desktop User Experience**](pdf/Ubuntu Desktop User Experience.pdf) is a downloadable PDF guide. Each section introduces foundational concepts that support continued learning and deeper exploration of Linux and Ubuntu.
-
-To support a safe and flexible learning experience, the guide also explains how to run Ubuntu in [**VirtualBox**](https://www.virtualbox.org/), allowing users to explore and practice Linux without affecting their primary operating system.
-
-**Ubuntu Links:**
-- [Ubuntu Desktop Guide](https://help.ubuntu.com) 
-- [Ubuntu Help](https://help.ubuntu.com/) 
-- [Ask Ubuntu](https://askubuntu.com/)
-- [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-
-**Additional Resources** for a deeper dive into Ubuntu
-- [Linux File Management Cheatsheet](pdf/Linux_File_Management_CheatSheet.pdf)
-- [Deja Dup Backups](https://apps.gnome.org/DejaDup/)
-- [Install and configure Samba](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview)
-- [UFW - Uncomplicated Firewall](https://help.ubuntu.com/community/UFW) & [GUI UFW App](https://help.ubuntu.com/community/Gufw)
-- [Install PowerShell 7 on Ubuntu](https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu?view=powershell-7.6)
-
-[**Zorin 18**](https://zorin.com/os/) has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences. Here are the steos to [install Zorin 18 in Virtualbox](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
-
-Once you become familiar with Ubuntu and Zorin, try out other popular Linux distributions, including [Fedora](https://www.fedoraproject.org/), [Linux Minut](https://linuxmint.com/), [Pop OS](https://system76.com/pop/?srsltid=AfmBOoqAYCdthm9sq00GMyD-, kWFpINnoxaarjKiqluWmZnodPPKP8HEj), and [Manjaro](https://manjaro.org/)
+This [**Ubuntu Essentials Beginner's Guide**](Ubuntu_Beginners_Guide.md) offers a hands-on introduction to the Linux desktop with **Ubuntu 26.04 LTS**. Designed for newcomers, it emphasizes practical daily use, core Linux fundamentals, and building the confidence needed to transition smoothly into the Linux ecosystem.
 
 ---
 
@@ -79,13 +58,12 @@ Once you become familiar with Ubuntu and Zorin, try out other popular Linux dist
 
 --- 
 
-### Learning MacOS, Linux, and Windows Command Lines Cheatsheets
+### Learning MacOS and Windows Command Lines Cheatsheets
 
 Exploring the command line provides a deeper appreciation for the capabilities behind each operating system. These command cheatsheet resource offers advanced functionalities and can be particularly handy as a quick reference to enhance one's command line proficiency. 
 
 - [Apple MacOS Command Lines](pdf/MacOS Command Line Cheatsheet.pdf)
 - [Windows 11 Cheatsheet (downloadable pdf)](pdf/Windows-11-Cheatsheet.pdf)
-- [Linux Command Lines](pdf/Linux Essential Command Lines.pdf)
 
 ---
 

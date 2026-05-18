@@ -12,21 +12,21 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ---
 
-### Windows 11
-- [Common IT Troubleshooting Scenarios](Troubleshooting.md)
-- [How to change DNS settings (Windows 11) (PDF Version)](pdf/How-to-change-DNS-settings-(Windows-11).pdf)
-- [How to clean an infected PC](clean_infected_PC.md)
-- [Restoring Windows Network Connectivity with a Winsock Reset](winsock.md)
-- [Windows 11 App Management](Windows-11-app-management.md)
-
----
-
 ### Apple MacOS Essentials Guides
 - [Apple MacBook Essentials](apple_essentials.md)
 - [Apple MacBook Essential (downloadable PDF)](pdf/Apple MacBook Essentials.pdf)
 - [How to improve DNS for MacOS](MacOS_DNS.md)
 - [How to troubleshoot MacOS Connectivity to Samba File Server (downloadable PDF)](pdf/MacOS_Connectivity_Issues.pdf)
 - [Apple Support - YouTube Channel](https://www.youtube.com/@applesupport)
+
+--- 
+
+### Windows 11 Troubleshooting
+- [Common IT Troubleshooting Scenarios](Troubleshooting.md)
+- [How to change DNS settings (Windows 11) (PDF Version)](pdf/How-to-change-DNS-settings-(Windows-11).pdf)
+- [How to clean an infected PC](clean_infected_PC.md)
+- [Restoring Windows Network Connectivity with a Winsock Reset](winsock.md)
+- [Windows 11 App Management](Windows-11-app-management.md)
 
 ---
 
@@ -42,7 +42,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ---
 
-#### Ubuntu Essentials Beginner's Guide & Virtualization
+### Ubuntu Essentials Beginner's Guide & Virtualization
 
 This **Ubuntu Essentials Beginner's Guide** provides a practical introduction to the Linux desktop using **Ubuntu 26.04 LTS**. Created for beginners, it focuses on everyday usability, foundational Linux concepts, and helping new users transition confidently into the Linux environment.
 
@@ -69,11 +69,13 @@ Once you become familiar with Ubuntu and Zorin, try out other popular Linux dist
 
 ---
 
-### Office Suites and PDF Software
+### Office Suites and PDF Software: Tips and Tricks
 
 - [Adobe Acrobat Essentials (downloadable PDF)](pdf/Adobe Acrobat Pro.pdf)
+- [How to change Microsoft picture profile](Microsoft_Profile_Photo.md)
+- [How to change Microsoft Teams Background](Teams_Background.md)
 - [How to change picture profile and Microsoft Teams background Infographic (downloadable pdf)](pdf/Microsoft Teams Quick Guide.pdf)
-- 
+- **More Coming Soon**
 
 --- 
 

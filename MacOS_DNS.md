@@ -5,7 +5,7 @@ description: "Improve DNS Performance on macOS"  # override site.description
 
 ---
 
-## A Simple Guide to Updating DNS Settings on macOS
+### A Simple Guide to Updating DNS Settings on macOS
 
 The Domain Name System (DNS) helps your Mac connect to websites faster by translating website names into IP addresses. Switching to a faster DNS provider can improve browsing speed, reliability, and security.
 

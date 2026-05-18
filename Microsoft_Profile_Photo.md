@@ -7,10 +7,10 @@ description: "Microsoft Profile Picture"  # override site.description
 
 ### IT Guide: How to Change Your Profile Picture in Microsoft Teams (and Microsoft 365)
 
-This guide covers the two most common ways your profile photo is managed at work:
+Your Microsoft Teams profile picture helps coworkers identify you in chats, meetings, and channels. This guide explains how to change, remove, or update your profile picture in Microsoft Teams. There are the two most common ways your profile photo is managed at work:
 
-1. Change it directly in Microsoft Teams, and
-2. Change it in Microsoft 365/My Account, which then appears across Microsoft 365 apps (including Teams).
+1. Change it directly in **Microsoft Teams**.
+2. Change it in **Microsoft 365/My Account**, which then appears across **Microsoft 365 apps** (including Teams).
 
 ---
 

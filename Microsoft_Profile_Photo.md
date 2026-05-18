@@ -9,8 +9,8 @@ description: "Microsoft Profile Picture"  # override site.description
 
 This guide covers the two most common ways your profile photo is managed at work:
 
-Change it directly in Microsoft Teams, and
-Change it in Microsoft 365/My Account, which then appears across Microsoft 365 apps (including Teams).
+1. Change it directly in Microsoft Teams, and
+2. Change it in Microsoft 365/My Account, which then appears across Microsoft 365 apps (including Teams).
 
 ---
 

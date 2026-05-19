@@ -15,7 +15,6 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 ### Apple MacOS Essentials Guides
 - [Apple MacBook Essentials](apple_essentials.md)
 - [Apple MacBook Essential (downloadable PDF)](pdf/Apple MacBook Essentials.pdf)
-- [Apple MacOS Command Lines](pdf/MacOS Command Line Cheatsheet.pdf)
 - [How to improve DNS for MacOS](MacOS_DNS.md)
 - [How to troubleshoot MacOS Connectivity to Samba File Server (downloadable PDF)](pdf/MacOS_Connectivity_Issues.pdf)
 

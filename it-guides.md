@@ -39,6 +39,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 - [Mastering Microsoft Teams Administration with PowerShell](TeamsPowerShell.md)
 - [Microsoft Teams Quick Reference PDF](pdf/Microsoft_Teams_PowerShell.pdf)
 - [MFA & Conditional Access](mfa-conditional-access.md)
+- [MFA & Conditional Access Infographic Cheatsheet](pdf/M365_Conditional_Access_Safe_Zones.pdf)
 
 ---
 
@@ -47,16 +48,6 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 This [**Ubuntu Essentials Beginner's Guide**](Ubuntu_Beginners_Guide.md) offers a hands-on introduction to the Linux desktop with **Ubuntu 26.04 LTS**. Designed for newcomers, it emphasizes practical daily use, core Linux fundamentals, and building the confidence needed to transition smoothly into the Linux ecosystem.
 
 ---
-
-### Office Suites and PDF Software: Tips and Tricks
-
-- [Adobe Acrobat Essentials (downloadable PDF)](pdf/Adobe Acrobat Pro.pdf)
-- [How to change Microsoft picture profile](Microsoft_Profile_Photo.md)
-- [How to change Microsoft Teams Background](Teams_Background.md)
-- [How to change picture profile and Microsoft Teams background Infographic (downloadable pdf)](pdf/Microsoft Teams Quick Guide.pdf)
-- **More Coming Soon**
-
---- 
 
 ### Learning MacOS and Windows Command Lines Cheatsheets
 

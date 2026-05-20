@@ -26,6 +26,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 - [How to clean an infected PC](clean_infected_PC.md)
 - [Restoring Windows Network Connectivity with a Winsock Reset](winsock.md)
 - [Windows 11 App Management](Windows-11-app-management.md)
+- [Windows 11 Installation Guide](Windows11_Installation_Guide.md)
 
 ---
 

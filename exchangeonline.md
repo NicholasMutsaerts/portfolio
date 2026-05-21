@@ -136,9 +136,6 @@ Even thought users can delegate [Calendar sharing in Microsoft 365](https://supp
 
 To learn more about the difference calendar permission, visit [CalendarPermissionLevel | Microsoft](https://learn.microsoft.com/en-us/exchange/client-developer/web-service-reference/calendarpermissionlevel).
 
----
-
-[Go to the Home Page](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)
 
 
 

@@ -16,7 +16,7 @@ To support a safe and flexible learning experience, the guide also explains how 
 - [Ubuntu Help](https://help.ubuntu.com/) 
 
 **Learning Linux Command Lines**
-Exploring the command line provides a deeper appreciation for the capabilities behind each operating system. These command cheatsheet resource offers advanced functionalities and can be particularly handy as a quick reference to enhance one's command line proficiency. 
+Exploring the Linux command line reveals the powerful capabilities that drive the operating system beneath the surface. This command cheat sheet serves as a handy quick reference, offering advanced functionality and helping users strengthen their efficiency and confidence when working in the Linux terminal.
 
 - [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 - [Linux Command Lines](pdf/Linux Essential Command Lines.pdf)

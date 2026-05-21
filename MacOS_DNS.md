@@ -113,5 +113,5 @@ Your Mac will now use the new DNS servers.
 
 ---
 
-#### [Go to the Home Page](/)
+[#### [Go to the Home Page](/)](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)
 

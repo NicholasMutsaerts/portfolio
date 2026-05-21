@@ -186,7 +186,7 @@ Securing your Apple MacBook involves a combination of best practices, system con
 
 ---
 
-#### [Go to the Home Page](/)
+[Go to the Home Page](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)
 
 
 

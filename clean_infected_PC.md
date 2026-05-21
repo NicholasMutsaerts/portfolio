@@ -64,4 +64,4 @@ Successfully cleaning an infected Windows PC requires more than running a single
 
 ---
 
-#### [Go to the Home Page](/)
+[Go to the Home Page](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)

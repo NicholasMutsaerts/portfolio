@@ -172,7 +172,5 @@ Help Desk work is about problem-solving, communication, and consistency. Master 
 
 In IT helpdesk support, many technical issues can be resolved through quick and effective troubleshooting. Empowering users to address basic problems on their own not only speeds up resolution times but also creates a more efficient and proactive support environment. Building a well-structured knowledge base with clear, concise reference guides can significantly enhance incident management and overall help desk performance.
 
----
 
-[#### [Go to the Home Page](/)](https://nicholasmutsaerts.github.io/portfolio/it-guides.md))
 

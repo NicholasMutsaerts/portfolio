@@ -174,9 +174,5 @@ In IT helpdesk support, many technical issues can be resolved through quick and 
 
 ---
 
-#### [Go to the Home Page](/)
-
----
-
-#### [Go to the Home Page](/)
+[#### [Go to the Home Page](/)](https://nicholasmutsaerts.github.io/portfolio/it-guides.md))
 

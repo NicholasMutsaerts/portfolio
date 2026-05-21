@@ -43,7 +43,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ---
 
-### [Ubuntu Essentials Beginner's Guide & Virtualization]((Ubuntu_Beginners_Guide.md))
+### [Ubuntu Essentials Beginner's Guide & Virtualization](Ubuntu_Beginners_Guide.md)
 
 This [**Ubuntu Essentials Beginner's Guide**](Ubuntu_Beginners_Guide.md) offers a hands-on introduction to the Linux desktop with **Ubuntu 26.04 LTS**. Designed for newcomers, it emphasizes practical daily use, core Linux fundamentals, and building the confidence needed to transition smoothly into the Linux ecosystem.
 
@@ -54,7 +54,7 @@ This [**Ubuntu Essentials Beginner's Guide**](Ubuntu_Beginners_Guide.md) offers 
 Exploring the command line provides a deeper appreciation for the capabilities behind each operating system. These command cheatsheet resource offers advanced functionalities and can be particularly handy as a quick reference to enhance one's command line proficiency. 
 
 - [Apple MacOS Command Lines](pdf/MacOS Command Line Cheatsheet.pdf)
-- [Windows 11 Cheatsheet (downloadable pdf)](pdf/Windows-11-Cheatsheet.pdf)
+- [Windows 11 Cheatsheet](pdf/Windows-11-Cheatsheet.pdf)
 
 ---
 

@@ -69,4 +69,4 @@ Below is a quick guide to the basic commands used in Terminal, Command Prompt, o
 
 ---
 
-[#### [Go to the Home Page](/)](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)
+[Go to the Home Page](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)

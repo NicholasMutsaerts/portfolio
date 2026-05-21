@@ -37,9 +37,6 @@ Once you become familiar with Ubuntu and Zorin, try out other popular Linux dist
 ### Usage & Disclaimer
 All content is provided for educational and reference purposes only. Scripts, commands, and procedures are used at your own risk. While every effort has been made to ensure the accuracy of this guide, performing administrative tasks incorrectly can lead to issues such as data loss, compliance impacts, or service disruption. Always back up critical data and adhere to organizational policies, security standards, and official vendor documentation. When in doubt, consult a qualified IT professional.
 
----
-
-[#### [Go to the Home Page](/)](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)
 
 
 

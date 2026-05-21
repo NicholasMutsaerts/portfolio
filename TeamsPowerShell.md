@@ -80,4 +80,4 @@ Microsoft Teams includes AI capabilities such as facial recognition, voice enrol
 
 ---
 
-#### [Go to the Home Page](/)
+[#### [Go to the Home Page](/)](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)

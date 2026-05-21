@@ -68,7 +68,4 @@ This ensures all users are required to use MFA when accessing resources covered 
 
 
 
----
-
-[Go to the Home Page](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)
 

@@ -41,32 +41,29 @@ The Windows Package Manager (**winget**) is a powerful command-line tool for man
 
 Below is a quick guide to the basic commands used in Terminal, Command Prompt, or PowerShell (run as administrator).
 
-#### Show all installed applications
+Show all installed applications
 
 **winget list**
 
-#### To search for application, use: 		
+To search for application, use: 		
 
 **winget search <appname>**
 
-#### To Install an application, use:
+To Install an application, use:
 
 **winget install <app_name>**
 
-#### Uninstall an application, use:
+Uninstall an application, use:
 
 **winget uninstall <app_name>**
 
 #### Update Applications
 
-#### To upgrade an application, use:
+To upgrade an application, use:
 
 **winget upgrade <appname>**
 
-#### To upgrade all applications, use:
+To upgrade all applications, use:
 
 **winget upgrade --all**
 
----
-
-[Go to the Home Page](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)

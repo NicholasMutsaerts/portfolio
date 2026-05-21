@@ -184,9 +184,6 @@ Securing your Apple MacBook involves a combination of best practices, system con
 - Take advantage of [Trackpad Gestures](https://support.apple.com/en-ca/102482) for intuitive navigation.
 - Visit [Official Apple Support](https://support.apple.com/).
 
----
-
-[Go to the Home Page](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)
 
 
 

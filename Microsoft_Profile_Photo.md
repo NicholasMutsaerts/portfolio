@@ -44,4 +44,4 @@ Your Microsoft Teams profile picture helps coworkers identify you in chats, meet
 
 ---
 
-#### [Go to the Home Page](/)
+[#### [Go to the Home Page](/)](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)

@@ -104,6 +104,3 @@ Some systems show a BitLocker recovery screen immediately on power-on. In that c
 - Or use one-time boot menu key
 
 
----
-
-[Go to the Home Page](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)

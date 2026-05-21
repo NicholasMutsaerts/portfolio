@@ -11,10 +11,15 @@ This **Ubuntu Essentials Beginner's Guide** provides a practical introduction to
 To support a safe and flexible learning experience, the guide also explains how to run Ubuntu in [**VirtualBox**](https://www.virtualbox.org/), allowing users to explore and practice Linux without affecting their primary operating system.
 
 **Ubuntu Links:**
+- [Ask Ubuntu](https://askubuntu.com/)
 - [Ubuntu Desktop Guide](https://help.ubuntu.com) 
 - [Ubuntu Help](https://help.ubuntu.com/) 
-- [Ask Ubuntu](https://askubuntu.com/)
+
+**Learning Linux Command Lines**
+Exploring the command line provides a deeper appreciation for the capabilities behind each operating system. These command cheatsheet resource offers advanced functionalities and can be particularly handy as a quick reference to enhance one's command line proficiency. 
+
 - [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+- [Linux Command Lines](pdf/Linux Essential Command Lines.pdf)
 
 **Additional Resources** for a deeper dive into Ubuntu
 - [Linux File Management Cheatsheet](pdf/Linux_File_Management_CheatSheet.pdf)
@@ -26,14 +31,6 @@ To support a safe and flexible learning experience, the guide also explains how 
 [**Zorin 18**](https://zorin.com/os/) has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences. Here are the steos to [install Zorin 18 in Virtualbox](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
 
 Once you become familiar with Ubuntu and Zorin, try out other popular Linux distributions, including [Fedora](https://www.fedoraproject.org/), [Linux Minut](https://linuxmint.com/), [Pop OS](https://system76.com/pop/?srsltid=AfmBOoqAYCdthm9sq00GMyD-, kWFpINnoxaarjKiqluWmZnodPPKP8HEj), and [Manjaro](https://manjaro.org/)
-
-### Learning MacOS, Linux, and Windows Command Lines Cheatsheets
-
-Exploring the command line provides a deeper appreciation for the capabilities behind each operating system. These command cheatsheet resource offers advanced functionalities and can be particularly handy as a quick reference to enhance one's command line proficiency. 
-
-- [Apple MacOS Command Lines](pdf/MacOS Command Line Cheatsheet.pdf)
-- [Windows 11 Cheatsheet (downloadable pdf)](pdf/Windows-11-Cheatsheet.pdf)
-- [Linux Command Lines](pdf/Linux Essential Command Lines.pdf)
 
 ---
 

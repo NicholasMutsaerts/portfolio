@@ -63,5 +63,4 @@ All content is provided for educational and reference purposes only. Scripts, co
 
 ---
 
-#### [Go to the Home Page](/)
-
+[#### [Go to the Home Page](/)](https://nicholasmutsaerts.github.io/portfolio/it-guides.html)

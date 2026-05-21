@@ -64,6 +64,3 @@ For advanced troubleshooting, refer to Microsoft’s official documentation on f
 ### Why This Matters for IT Support Professionals
 For IT Help Desk and System Administration roles, understanding and applying tools like Netsh enables faster incident resolution, reduced downtime, and more effective end-user support. Automating these steps can further streamline troubleshooting workflows and improve consistency across support teams.
 
----
-
-[Go to the Home Page](https://nicholasmutsaerts.github.io/portfolio/it-guides.md)

@@ -146,19 +146,19 @@ Disconnect-ExchangeOnline
 
 ### Quick Command Reference
 
-# Start PowerShell
+#### Start PowerShell
 pwsh
 
-# Install EXO module
+#### Install EXO module
 Install-Module ExchangeOnlineManagement
 
-# Connect to Exchange Online
+#### Connect to Exchange Online
 Connect-ExchangeOnline -UserPrincipalName admin@domain.com
 
-# Run command
+#### Run command
 Get-Mailbox
 
-# Disconnect
+#### Disconnect
 Disconnect-ExchangeOnline
 
 ---

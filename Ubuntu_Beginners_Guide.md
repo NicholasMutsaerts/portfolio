@@ -27,6 +27,7 @@ Exploring the Linux command line reveals the powerful capabilities that drive th
 - [Install and configure Samba](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview)
 - [UFW - Uncomplicated Firewall](https://help.ubuntu.com/community/UFW) & [GUI UFW App](https://help.ubuntu.com/community/Gufw)
 - [Install PowerShell 7 on Ubuntu](https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu?view=powershell-7.6)
+- [Managing M365 Admin with Ubuntu](Ubuntu_M365_Admin.md)
 
 [**Zorin 18**](https://zorin.com/os/) has a guide on how to install Zorin 18 in virtualbox. Learning Ubuntu and Zorin side by side helps demonstrate how different desktop environments can share the same Linux foundation while delivering distinct user experiences. Here are the steos to [install Zorin 18 in Virtualbox](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
 

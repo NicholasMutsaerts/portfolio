@@ -98,5 +98,5 @@ Companies that successfully integrate AI into their operations will likely gain 
 - [Microsoft Copilot](https://copilot.microsoft.com)
 - [Microsoft 365 Copilot](https://www.microsoft.com/microsoft-365/copilot)
 - [Ollama](https://ollama.com)
-- [Claude AI](https://claude.ai))
+- [Claude AI](https://claude.ai)
 

@@ -92,12 +92,11 @@ Companies that successfully integrate AI into their operations will likely gain 
 
 ---
 
-# References
+### References
 
-* OpenAI – https://chatgpt.com
-* Microsoft Copilot – https://copilot.microsoft.com
-* Microsoft 365 Copilot – https://www.microsoft.com/microsoft-365/copilot
-* Ollama – https://ollama.com
-* Claude AI – https://claude.ai
-* McKinsey & Company – https://www.mckinsey.com
-* Gartner Research – https://www.gartner.com
+- [OpenAI – ChatGPT](https://chatgpt.com)
+- [Microsoft Copilot](https://copilot.microsoft.com)
+- [Microsoft 365 Copilot](https://www.microsoft.com/microsoft-365/copilot)
+- [Ollama](https://ollama.com)
+- [Claude AI](https://claude.ai))
+

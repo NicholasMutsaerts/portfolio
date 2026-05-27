@@ -48,6 +48,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ### Quick Tips and Tutorials
 
+- [Defending Against Phishing Attacks](phishing.md)
 - [Why Companies Are Adopting AI Tools](AI.md)
 
 

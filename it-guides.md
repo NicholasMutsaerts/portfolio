@@ -51,6 +51,8 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 - [Defending Against Phishing Attacks](phishing.md)
 - [Why Companies Are Adopting AI Tools](AI.md)
+- [Microsoft on the web](Coming soon)
+- [Microsoft on the web infographic](images/Microsoft 365 on the web.png)
 
 
 ---

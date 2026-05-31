@@ -9,9 +9,9 @@ As Microsoft Teams continues to evolve as a core collaboration tool in modern wo
 Prerequisites: The first required steps lie in installing PowerShell 5.1 on Windows or PowerShell 7.2+ on all platforms. Install the [latest version of PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell) available for your operating system.
 Microsoft offers great resources for help desk support and system administrators:
 
-•	[Microsoft Teams PowerShell Overview](https://lnkd.in/gZrkPr_U)
-•	[Microsoft Teams PowerShell](https://lnkd.in/guKHNncH)
-•	[Manage Teams with Microsoft Teams PowerShell](https://lnkd.in/gxAJY63X)
+- [Microsoft Teams PowerShell Overview](https://lnkd.in/gZrkPr_U)
+- [Microsoft Teams PowerShell](https://lnkd.in/guKHNncH)
+- [Manage Teams with Microsoft Teams PowerShell](https://lnkd.in/gxAJY63X)
 
 PowerShell is a game-changer for managing Microsoft Teams at scale. Here is an introductory cheatsheet. Please note that this list is not exhaustive, and for more in-depth information, you can refer to the embedded links below.
 

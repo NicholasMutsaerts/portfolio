@@ -33,6 +33,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ### Microsoft 365 Administration & PowerShell 
 - [Export Office 365 Mailbox (downloadable PDF)](pdf/Exporting-an-Office-365-Mailbox-to-PST.pdf)
+- [How to Create a Communication SharePoint Site](SharePoint.md)
 - [Microsoft 365 Exchange Distribution Lists (Downloadable PDF)](pdf/Microsoft Online Distribution Lists Guide.pdf)
 - [Mastering Microsoft 365 Distribution Lists](mastering_distribution_lists.md)
 - [Microsoft Distribution List Infographic](images/M365 Distribution Lists.png)

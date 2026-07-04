@@ -83,6 +83,37 @@ Microsoft Teams includes AI capabilities such as facial recognition, voice enrol
 
 ---
 
+### How to Export all Teams, Owners, and Members into a CSV File
+
+1. Install and connect to Teams with these PowerShell Commands
+
+Install-Module MicrosoftTeams -Force
+Connect-MicrosoftTeams
+
+2. Export all Teams, Owners, and Members with these PowerShell Commands
+
+$Results = @()
+
+Get-Team | ForEach-Object {
+
+    $TeamName = $_.DisplayName
+    $GroupId = $_.GroupId
+
+    Get-TeamUser -GroupId $GroupId | ForEach-Object {
+
+        $Results += [PSCustomObject]@{
+            TeamName    = $TeamName
+            UserName    = $_.Name
+            Email       = $_.User
+            Role        = $_.Role   # Owner or Member
+        }
+    }
+}
+
+$Results | Export-Csv "C:\Temp\Teams_Owners_Members.csv" -NoTypeInformation
+
+---
+
 ### Microsoft Teams PowerShell Quick Reference Infographic
 
 [Microsoft Teams PowerShell Infographic (downloadable PDF)](pdf/Microsoft_Teams_PowerShell_Infographic.pdf)

@@ -45,6 +45,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 - [MFA & Conditional Access Infographic Cheatsheet](pdf/M365_Conditional_Access_Safe_Zones.pdf)
 - [Temporary Access Pass](Temporary_Access_Pass.md)
 - [Temporary Access Pass (Downloadable PDF)](pdf/Temporary_Access_Pass.pdf)
+- [Windows Device Reset & BitLocker Recovery Guide](windowsreset.md)
 
 ---
 

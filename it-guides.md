@@ -54,7 +54,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 - [Microsoft on the web](M365_Web.md)
 - [Microsoft on the web infographic](images/Microsoft 365 on the web.png)
-- {Microsoft Outlook and Teams Scheduling Assistant Guide](schedulingassistant.md)
+- [Microsoft Outlook and Teams Scheduling Assistant Guide](schedulingassistant.md)
 
 
 ---

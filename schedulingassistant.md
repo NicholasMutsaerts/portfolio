@@ -40,16 +40,6 @@ Use Teams when you want to schedule directly from the Teams calendar, a chat, or
 8. If scheduling from a channel, confirm that the channel is correct before sending because channel details may not be editable after the invitation is sent.
 9. Select **Send** or **Save** when ready.
 
-### Generic screenshot: Teams Scheduler
-| Teams meeting details | Scheduler view | Meeting options |
-|---|---|---|
-| **Title:** Weekly planning
-**Required attendees:** Team members
-**Date:** Wednesday | 9:00 AM: Several conflicts | 10:30 AM: Most attendees free
-**Recommended slot:** 10:30 AM | Teams meeting: On
-Agenda added: Yes
-Reminder: 15 minutes before |
-
 ---
 ### Best practices and troubleshooting
 

@@ -71,7 +71,7 @@ This [**Ubuntu Essentials Beginner's Guide**](Ubuntu_Beginners_Guide.md) offers 
 Exploring the command line provides a deeper appreciation for the capabilities behind each operating system. These command cheatsheet resource offers advanced functionalities and can be particularly handy as a quick reference to enhance one's command line proficiency. 
 
 - [Apple MacOS Command Lines (Downloadable PDF)](pdf/MacOS Command Line Cheatsheet.pdf)
-- [MacOS Terminal Command Lines (Infographic)(macos_terminal.md)
+- [MacOS Terminal Command Lines (Infographic)](macos_terminal.md)
 - [Windows 11 Cheatsheet (Downloadable PDF)](pdf/Windows-11-Cheatsheet.pdf)
 - [Microsoft 365 Exchange PowerShell Command (Downloadable PDF)](pdf/Microsoft 365 Exchange PowerShell Commands.pdf)
 - [Microsoft Teams Commands (Downloadable PDF)](pdf/Microsoft_Teams_PowerShell.pdf)

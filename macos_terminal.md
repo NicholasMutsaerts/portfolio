@@ -4,4 +4,4 @@ To streamline my workflow and reduce time spent searching for commands, I create
 
 Whether you're new to macOS or looking to enhance your technical skills within the Apple ecosystem, I hope you find it useful.
 
-[macOS Terminal Command Lines Infographic](images/macOS_Terminal.jpeg)
+[macOS Terminal Command Lines Infographic](images/macOS_Terminal.jpeg!)

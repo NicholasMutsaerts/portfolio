@@ -6,4 +6,4 @@ A faster and more reliable DNS provider can reduce lookup delays, improve browsi
 
 Here's a quick guide to updating DNS settings on macOS and verifying that everything is working correctly.
 
-  [DNS Guide for MacOS Infographic](images/DNS_MacPS.jpeg)
+  [DNS Guide for MacOS Infographic](images/DNS_MacOS.jpeg!)

@@ -14,7 +14,7 @@ These quick-reference resources are **reviewed and updated regularly** to ensure
 
 ### Apple MacOS Essentials Guides
 - [Apple MacBook Essentials](apple_essentials.md)
-- [Apple MacBook Essential (downloadable PDF)](pdf/Apple MacBook Essentials.pdf)
+- [Apple MacBook Essentials (downloadable PDF)](pdf/Apple MacBook Essentials.pdf)
 - [How to troubleshoot MacOS Connectivity to Samba File Server (downloadable PDF)](pdf/MacOS_Connectivity_Issues.pdf)
 - [Managing Microsoft 365 from MacOS](Apple_M365_Admin.md)
 - [Why changing DNS improves performance on MacOS?](dns_macos.md)

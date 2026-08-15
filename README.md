@@ -1,18 +1,19 @@
-## **[IT Technical Support Guides](it-guides.md)**
+## IT Support & Systems Administration Portfolio
 
-Welcome to my professional IT portfolio and technical knowledge base. This site provides clear, practical guidance for everyday IT support tasks, drawing on real-world experience across enterprise and education environments.
+Welcome to my professional IT portfolio.
 
-The guides focus on structured documentation, step-by-step troubleshooting, and hands-on labs covering Windows 11, macOS, Linux, and Microsoft 365 administration. Content is designed to support efficient problem-solving, repeatable workflows, and user-focused technical solutions relevant to modern help desk and support roles.
+I am an IT professional focused on **technical support, systems administration, Microsoft 365, endpoint management, troubleshooting, and technical documentation**. This portfolio demonstrates my practical IT knowledge through technical guides, troubleshooting procedures, documentation, and projects.
 
-This knowledge base highlights common technical issues, proven resolutions, and industry best practices to strengthen troubleshooting skills, improve confidence, and streamline support workflows. Well-organized, quick-reference documentation helps accelerate issue resolution and enhance overall help desk efficiency.
+This repository contains practical IT documentation designed to solve common technical problems and provide clear, repeatable procedures. The guides focus on structured documentation, step-by-step troubleshooting, and hands-on labs covering Windows 11, macOS, Linux, and Microsoft 365 administration. Content is designed to support efficient problem-solving, repeatable workflows, and user-focused technical solutions relevant to modern help desk and support roles.
+
+[Browse the guides](it-guides.md)
 
 ### Key Content
 
-- Step-by-step technical guides and troubleshooting workflows
-- Educational IT articles based on real-world scenarios
-- Windows 11, macOS, Linux, and Microsoft 365 administration topics
-- Curated reference links for further learning
-- Practical labs and quick-reference materials
+- Step-by-step troubleshooting workflows for Windows 11, macOS, and Linux
+- Microsoft 365 administration guides and PowerShell references
+- Real-world scenarios and proven fixes from hands-on support experience
+- Quick-reference labs and downloadable cheat sheets
 
 These resources highlight common issues, outline proven resolutions, and document best practices to help build troubleshooting skills, improve confidence, and support learning in IT support environments.
 
@@ -22,9 +23,14 @@ These resources highlight common issues, outline proven resolutions, and documen
 All content is provided for educational and reference purposes only. Scripts, commands, and procedures are used at your own risk. Always back up critical data and adhere to organizational policies, security standards, and official vendor documentation. When in doubt, consult a qualified IT professional.
 
 ---
-### About Me
+### Connect
 
-I am an **IT Support Specialist** with hands-on experience delivering **Tier 1 and Tier 2 technical support** in Windows 11, macOS, and Microsoft 365 environments. Proven ability to provide **deskside and remote support, incident triage, user account administration, hardware/peripheral troubleshooting**, and resolve incidents efficiently using **ticketing systems**. Proficient in **Microsoft 365**, **Active Directory**, and **Microsoft 365 Administration**. Recognized for clear communication, strong documentation, and high first-contact resolution rates in fast-paced, on-site environments. 
+**Portfolio:**
+[https://nicholasmutsaerts.github.io/portfolio/](https://nicholasmutsaerts.github.io/portfolio)
+
+**GitHub:**
+[https://github.com/NicholasMutsaerts](https://github.com/NicholasMutsaerts)
+
 
 <a href="https://www.linkedin.com/in/nicholasmutsaerts/">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
